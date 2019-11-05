@@ -1,0 +1,1001 @@
+user_id,email,first_name,last_name,gender,birthday,city,state,newsletter_sign_up_date,Age,Total_Lifetime_Value,Region
+1,byrle@gmail.com,Byrle,Grinishin,Male,8/13/66,Indianapolis,Indiana,,53,87.4,Midwest Region
+2,lucius@gmail.com,Lucius,Fairholme,Male,6/4/65,Dallas,Texas,4/24/17,54,511.95,South Region
+3,nefen@gmail.com,Nefen,Matthew,Male,,Brooklyn,New York,7/16/18,,515.4,Northeast Region
+4,phillie@gmail.com,Phillie,Lanigan,Female,4/17/68,Washington,District of Columbia,3/28/17,52,5,South Region
+5,alfredo@gmail.com,Alfredo,Filipiak,Male,12/20/75,Sarasota,Florida,4/11/17,44,59.5,South Region
+6,peggi@gmail.com,Peggi,Hackwell,Female,4/18/79,Evansville,Indiana,,41,120,Midwest Region
+7,shannen@gmail.com,Shannen,Innocent,Female,9/2/83,El Paso,Texas,10/21/17,36,230.6,South Region
+8,kelsy@gmail.com,Kelsy,Oosthout de Vree,Female,12/16/62,Peoria,Illinois,12/3/17,57,403.85,Midwest Region
+9,creighton@gmail.com,Creighton,Khadir,Male,3/19/86,Lubbock,Texas,,34,220.1,South Region
+10,pavlov@gmail.com,Pavlov,Pecha,Male,1/14/72,Atlanta,Georgia,10/18/16,48,5,South Region
+11,sebastian@gmail.com,Sebastian,Ritson,Male,5/11/75,San Jose,California,2/4/18,45,70,West Region
+12,ulrika@gmail.com,Ulrika,Yurov,Female,11/23/87,Topeka,Kansas,5/4/17,32,71.2,Midwest Region
+13,vikky@gmail.com,Vikky,MacGaughie,Female,8/24/66,Louisville,Kentucky,4/11/18,53,105,South Region
+14,megan@gmail.com,Megan,Dunkley,Female,12/24/72,Kalamazoo,Michigan,12/12/17,47,70,Midwest Region
+15,jemima@gmail.com,Jemima,Marsden,Female,7/4/74,Inglewood,California,9/2/16,45,56.5,West Region
+16,shirline@gmail.com,Shirline,Vignaux,Female,11/3/58,Lincoln,Nebraska,8/12/17,61,539.9,Midwest Region
+17,tracy@gmail.com,Tracy,Behling,Female,1/18/73,Baltimore,Maryland,,47,20,South Region
+18,standford@gmail.com,Standford,Rodda,Male,2/14/59,Fort Worth,Texas,7/16/17,61,100,South Region
+19,lonnie@gmail.com,Lonnie,Furminger,Male,6/1/68,Hampton,Virginia,,51,70,South Region
+20,jedidiah@gmail.com,Jedidiah,Matchitt,Male,2/26/83,Tampa,Florida,,37,416.9,South Region
+21,hailey@gmail.com,Hailey,Shipp,Male,10/3/61,Cheyenne,Wyoming,7/25/17,58,106.7,West Region
+22,wilburt@gmail.com,Wilburt,Parsand,Male,8/12/71,Fargo,North Dakota,,48,150.9,Midwest Region
+23,lief@gmail.com,Lief,Ilchenko,Male,5/28/84,Raleigh,North Carolina,4/20/17,35,#N/A,South Region
+24,meggi@gmail.com,Meggi,Ricardin,Female,6/12/84,Austin,Texas,1/24/18,35,14.4,South Region
+25,edvard@gmail.com,Edvard,Bramer,Male,5/12/84,Wichita,Kansas,9/18/17,36,37.5,Midwest Region
+26,corbin@gmail.com,Corbin,Sheather,Male,6/7/64,San Antonio,Texas,11/12/17,55,70,South Region
+27,luis@gmail.com,Luis,Goadbie,Male,2/11/54,Washington,District of Columbia,,66,166.6,South Region
+28,cherey@gmail.com,Cherey,Hansemann,Female,3/24/87,Tuscaloosa,Alabama,7/29/17,33,117.5,South Region
+29,urson@gmail.com,Urson,de Zamora,Male,2/24/71,Roanoke,Virginia,8/11/18,49,20,South Region
+30,anabal@gmail.com,Anabal,Coopman,Female,7/26/88,Charlotte,North Carolina,8/21/17,31,56.8,South Region
+31,sophey@gmail.com,Sophey,Greeve,Female,1/9/83,Petaluma,California,11/24/16,37,16.4,West Region
+32,constantine@gmail.com,Constantine,Ruffey,Male,12/5/51,Idaho Falls,Idaho,5/27/17,68,80,West Region
+33,jobie@gmail.com,Jobie,Walkingshaw,Female,6/18/84,New York City,New York,,35,20,Northeast Region
+34,celia@gmail.com,Celia,Jickles,Female,5/27/64,Denton,Texas,,55,80,South Region
+35,scotty@gmail.com,Scotty,Heathwood,Male,2/22/69,Bakersfield,California,9/21/16,51,100.8,West Region
+36,andra@gmail.com,Andra,Penrith,Female,8/1/60,Vancouver,Washington,,59,56,West Region
+37,lorin@gmail.com,Lorin,Rivitt,Male,7/14/63,Washington,District of Columbia,6/5/18,56,450,South Region
+38,ruthann@gmail.com,Ruthann,Briand,Female,7/27/86,Washington,District of Columbia,11/2/17,33,68.8,South Region
+39,thorin@gmail.com,Thorin,Claypool,Male,10/5/51,Humble,Texas,8/15/17,68,75.3,South Region
+40,reginald@gmail.com,Reginald,Biagini,Male,7/7/77,Canton,Ohio,,42,20,Midwest Region
+41,eduardo@gmail.com,Eduardo,Hartright,Male,4/17/85,Hialeah,Florida,5/29/18,35,107.5,South Region
+42,warden@gmail.com,Warden,Grinston,Male,2/23/59,Fresno,California,,61,#N/A,West Region
+43,granny@gmail.com,Granny,Nestoruk,Male,2/3/54,Portland,Oregon,,66,17,West Region
+44,jaymee@gmail.com,Jaymee,Luce,Female,12/22/62,Norfolk,Virginia,7/15/18,57,20,South Region
+45,eddie@gmail.com,Eddie,Tankus,Male,6/23/81,Charleston,West Virginia,6/15/18,38,566.1,South Region
+46,nadeen@gmail.com,Nadeen,Benne,Female,2/26/63,Atlanta,Georgia,2/19/18,57,137.3,South Region
+47,fernando@gmail.com,Fernando,Witten,Male,1/21/60,Anchorage,Alaska,8/29/16,60,#N/A,West Region
+48,freeman@gmail.com,Freeman,Hewertson,Male,10/27/55,Spartanburg,South Carolina,1/7/18,64,105.3,South Region
+49,mattie@gmail.com,Mattie,Foggo,Female,10/31/71,Crawfordsville,Indiana,,48,20,Midwest Region
+50,hadlee@gmail.com,Hadlee,Buxey,Male,1/14/80,Hartford,Connecticut,,40,95.2,Northeast Region
+51,myer@gmail.com,Myer,Dessant,Male,12/17/87,North Little Rock,Arkansas,8/17/16,32,50,South Region
+52,lydia@gmail.com,Lydia,Raynor,Female,3/8/74,Saint Petersburg,Florida,,46,540.2,South Region
+53,bernadette@gmail.com,Bernadette,Petegree,Female,1/12/72,Houston,Texas,4/11/17,48,420,South Region
+54,dasi@gmail.com,Dasi,Shallo,Female,1/26/74,Phoenix,Arizona,4/15/18,46,16.4,West Region
+55,oran@gmail.com,Oran,Wingeatt,Male,8/29/79,Scranton,Pennsylvania,6/13/18,40,89.2,Northeast Region
+56,natasha@gmail.com,Natasha,Klimentyonok,Female,11/5/69,Pittsburgh,Pennsylvania,3/14/17,50,207.6,Northeast Region
+57,steffen@gmail.com,Steffen,ducarme,Male,11/19/73,Corpus Christi,Texas,9/9/17,46,85,South Region
+58,orelle@gmail.com,Orelle,Eddisford,Female,8/14/81,New York City,New York,,38,75.9,Northeast Region
+59,cleavland@gmail.com,Cleavland,Bigmore,Male,8/26/59,Birmingham,Alabama,,60,106,South Region
+60,marcela@gmail.com,Marcela,Bottrell,Female,6/30/59,Washington,District of Columbia,9/17/17,60,#N/A,South Region
+61,al@gmail.com,Al,Snodden,Male,10/15/71,Provo,Utah,12/22/16,48,113,West Region
+62,shelton@gmail.com,Shelton,Kelling,Male,11/28/55,Richmond,Virginia,6/22/17,64,88.4,South Region
+63,felice@gmail.com,Felice,McAlester,Male,,Los Angeles,California,,,110,West Region
+64,jules@gmail.com,Jules,Altham,Male,10/6/74,Philadelphia,Pennsylvania,1/30/17,45,37.2,Northeast Region
+65,penn@gmail.com,Penn,Arunowicz,Male,10/20/57,Saint Paul,Minnesota,6/30/18,62,64.8,Midwest Region
+66,rhianna@gmail.com,Rhianna,Stote,Female,2/15/65,Boston,Massachusetts,7/5/18,55,#N/A,Northeast Region
+67,terra@gmail.com,Terra,De Fries,Female,1/12/62,Denver,Colorado,,58,#N/A,West Region
+68,pearce@gmail.com,Pearce,Chettoe,Male,12/3/50,Fort Pierce,Florida,3/26/18,69,#N/A,South Region
+69,reg@gmail.com,Reg,Savidge,Male,12/27/72,San Francisco,California,2/12/18,47,463,West Region
+70,vinny@gmail.com,Vinny,MacCallister,Female,4/24/83,Memphis,Tennessee,,37,347.5,South Region
+71,arch@gmail.com,Arch,Stockney,Male,3/14/87,Saint Paul,Minnesota,11/9/17,33,16.4,Midwest Region
+72,kakalina@gmail.com,Kakalina,Emanuel,Female,11/2/54,Reston,Virginia,10/29/16,65,518,South Region
+73,alphonse@gmail.com,Alphonse,Swanton,Male,9/5/52,Long Beach,California,,67,80,West Region
+74,kingston@gmail.com,Kingston,Syms,Male,11/25/87,Washington,District of Columbia,,32,419.5,South Region
+75,tobit@gmail.com,Tobit,Ciccarello,Male,10/9/60,Arlington,Texas,,59,20,South Region
+76,stewart@gmail.com,Stewart,Writtle,Male,8/31/50,Buffalo,New York,2/27/17,69,#N/A,Northeast Region
+77,tybie@gmail.com,Tybie,Hazelden,Female,1/18/72,Atlanta,Georgia,,48,20,South Region
+78,jillane@gmail.com,Jillane,Cheak,Female,9/3/53,Bradenton,Florida,1/30/17,66,115.4,South Region
+79,della@gmail.com,Della,Spybey,Female,9/13/55,Nashville,Tennessee,11/11/17,64,130.9,South Region
+80,nobie@gmail.com,Nobie,Reddyhoff,Male,7/1/57,Las Vegas,Nevada,,62,451.6,West Region
+81,fulvia@gmail.com,Fulvia,Withinshaw,Female,7/31/79,Wilmington,Delaware,,40,140,South Region
+82,tessi@gmail.com,Tessi,Sacks,Female,2/21/61,Orange,California,9/9/17,59,52.5,West Region
+83,xylina@gmail.com,Xylina,Laxen,Female,10/19/66,Stockton,California,9/2/16,53,20,West Region
+84,beryle@gmail.com,Beryle,Gabler,Female,6/4/88,Washington,District of Columbia,6/12/18,31,79.6,South Region
+85,carlen@gmail.com,Carlen,Pach,Female,9/15/78,Youngstown,Ohio,,41,73.95,Midwest Region
+86,morgen@gmail.com,Morgen,Kaas,Male,11/10/65,Idaho Falls,Idaho,,54,215.5,West Region
+87,urban@gmail.com,Urban,Dowd,Male,3/6/73,Atlanta,Georgia,7/24/17,47,162.5,South Region
+88,byram@gmail.com,Byram,Tipton,Male,1/22/54,Arvada,Colorado,3/26/17,66,506.1,West Region
+89,jules@gmail.com,Jules,Marfell,Male,12/8/78,Springfield,Massachusetts,,41,60.2,Northeast Region
+90,sidoney@gmail.com,Sidoney,Acres,Female,6/11/57,Saint Louis,Missouri,9/21/17,62,110.4,Midwest Region
+91,lindy@gmail.com,Lindy,Narup,Male,4/23/60,Indianapolis,Indiana,9/10/16,60,64,Midwest Region
+92,josie@gmail.com,Josie,Pallent,Female,11/10/65,Midland,Texas,,54,427.2,South Region
+93,poul@gmail.com,Poul,Blondel,Male,9/26/53,Erie,Pennsylvania,,66,100,Northeast Region
+94,vannie@gmail.com,Vannie,Caroll,Female,10/19/51,Fresno,California,2/27/17,68,193.2,West Region
+95,chaunce@gmail.com,Chaunce,Croisier,Male,7/29/62,San Antonio,Texas,1/6/17,57,179.5,South Region
+96,olenolin@gmail.com,Olenolin,Bridie,Male,5/11/87,Lexington,Kentucky,1/29/17,33,362.1,South Region
+97,bordy@gmail.com,Bordy,Gatsby,Male,11/3/82,Saint Paul,Minnesota,4/16/18,37,7.05,Midwest Region
+98,gizela@gmail.com,Gizela,Shotter,Female,5/13/52,Anchorage,Alaska,12/28/17,68,470,West Region
+99,keir@gmail.com,Keir,Mixture,Male,3/13/81,Augusta,Georgia,,39,70,South Region
+100,krystle@gmail.com,Krystle,Straneo,Female,2/4/51,Austin,Texas,1/27/17,69,20,South Region
+101,minda@gmail.com,Minda,Wilcock,Female,9/23/50,Akron,Ohio,6/4/17,69,130.9,Midwest Region
+102,kris@gmail.com,Kris,MacAlaster,Male,10/9/59,Boston,Massachusetts,2/27/17,60,100.9,Northeast Region
+103,petrina@gmail.com,Petrina,Steade,Female,10/19/69,Littleton,Colorado,11/13/17,50,64,West Region
+104,ernest@gmail.com,Ernest,Adelberg,Male,8/21/54,Washington,District of Columbia,,65,#N/A,South Region
+105,cullin@gmail.com,Cullin,Maydway,Male,5/4/53,Austin,Texas,10/18/17,67,70,South Region
+106,jonathan@gmail.com,Jonathan,Marchington,Male,2/3/52,Jacksonville,Florida,,68,134.8,South Region
+107,barthel@gmail.com,Barthel,Kennifeck,Male,8/17/71,Aurora,Colorado,,48,#N/A,West Region
+108,evangelin@gmail.com,Evangelin,Paulet,Female,5/16/86,Indianapolis,Indiana,10/17/17,33,#N/A,Midwest Region
+109,auguste@gmail.com,Auguste,Winckworth,Female,,San Antonio,Texas,,,559.5,South Region
+110,thelma@gmail.com,Thelma,Mattke,Female,8/9/56,Jacksonville,Florida,4/25/17,63,20,South Region
+111,berny@gmail.com,Berny,Arnoult,Male,3/7/87,Lexington,Kentucky,,33,131,South Region
+112,blondy@gmail.com,Blondy,Polsin,Female,7/5/76,Charlotte,North Carolina,,43,131.1,South Region
+113,rakel@gmail.com,Rakel,Filippyev,Female,5/24/64,Minneapolis,Minnesota,,55,70,Midwest Region
+114,ryan@gmail.com,Ryan,Allain,Male,9/11/52,Montgomery,Alabama,10/14/17,67,417.4,South Region
+115,cassondra@gmail.com,Cassondra,Corton,Female,10/27/59,Chicago,Illinois,6/23/18,60,215,Midwest Region
+116,ronny@gmail.com,Ronny,Bedells,Male,1/26/68,Los Angeles,California,5/21/18,52,203.2,West Region
+117,coral@gmail.com,Coral,Lello,Female,,Minneapolis,Minnesota,5/14/18,,57.6,Midwest Region
+118,kaja@gmail.com,Kaja,Dreossi,Female,1/11/60,Las Vegas,Nevada,7/8/18,60,48.5,West Region
+119,jerrine@gmail.com,Jerrine,Acuna,Female,4/5/82,East Saint Louis,Illinois,8/9/18,38,53.9,Midwest Region
+120,michel@gmail.com,Michel,Meneur,Male,10/30/54,Milwaukee,Wisconsin,,65,3.7,Midwest Region
+121,morse@gmail.com,Morse,Canniffe,Male,9/8/82,Mobile,Alabama,11/5/17,37,14.4,South Region
+122,cristy@gmail.com,Cristy,Beeson,Female,10/10/50,Raleigh,North Carolina,12/16/17,69,100,South Region
+123,tybi@gmail.com,Tybi,Artois,Female,1/23/81,Waterbury,Connecticut,,39,191.8,Northeast Region
+124,tracey@gmail.com,Tracey,Gibberd,Male,,Fort Wayne,Indiana,8/20/17,,579.35,Midwest Region
+125,hayley@gmail.com,Hayley,Barribal,Female,5/6/66,Boca Raton,Florida,6/4/18,54,39,South Region
+126,sigismund@gmail.com,Sigismund,Semple,Male,4/3/80,Evanston,Illinois,9/9/16,40,120,Midwest Region
+127,manya@gmail.com,Manya,Allard,Female,1/9/87,Wichita,Kansas,,33,461.6,Midwest Region
+128,salli@gmail.com,Salli,Debenham,Female,12/19/55,Newport News,Virginia,7/19/17,64,#N/A,South Region
+129,helenka@gmail.com,Helenka,Limbourne,Female,1/23/52,Chicago,Illinois,,68,#N/A,Midwest Region
+130,warner@gmail.com,Warner,Henryson,Male,4/10/69,Stamford,Connecticut,7/10/18,51,17,Northeast Region
+131,findley@gmail.com,Findley,Maggorini,Male,12/2/73,Chicago,Illinois,7/28/17,46,200,Midwest Region
+132,ninnetta@gmail.com,Ninnetta,Minnock,Female,1/15/85,New York City,New York,5/3/17,35,114.6,Northeast Region
+133,devondra@gmail.com,Devondra,Carnow,Female,8/23/55,North Port,Florida,,64,737.6,South Region
+134,elsbeth@gmail.com,Elsbeth,Kopelman,Female,8/1/59,Colorado Springs,Colorado,12/8/16,60,690.9,West Region
+135,shane@gmail.com,Shane,Jeannenet,Female,7/11/84,Anaheim,California,11/12/16,35,73.6,West Region
+136,philip@gmail.com,Philip,Grabb,Male,3/10/88,Waco,Texas,7/20/17,32,488.3,South Region
+137,onida@gmail.com,Onida,Ferraro,Female,,Bethesda,Maryland,8/6/17,,252.2,South Region
+138,zane@gmail.com,Zane,Spurway,Male,6/19/54,Fort Lauderdale,Florida,,65,90,South Region
+139,rebeca@gmail.com,Rebeca,McGonigle,Female,5/8/62,Las Vegas,Nevada,9/23/17,58,100,West Region
+140,angelle@gmail.com,Angelle,Poker,Female,5/2/57,Largo,Florida,8/19/16,63,90,South Region
+141,alfons@gmail.com,Alfons,Fettiplace,Male,4/8/89,Glendale,California,,31,#N/A,West Region
+142,jerome@gmail.com,Jerome,Gayler,Male,10/7/78,Raleigh,North Carolina,11/7/17,41,20,South Region
+143,carmine@gmail.com,Carmine,Loakes,Male,7/2/80,Providence,Rhode Island,,39,37.5,Northeast Region
+144,gherardo@gmail.com,Gherardo,Kolczynski,Male,11/20/88,Dallas,Texas,5/20/18,31,122.9,South Region
+145,chrystel@gmail.com,Chrystel,Heyns,Female,11/27/83,Jackson,Mississippi,12/16/17,36,55,South Region
+146,carleton@gmail.com,Carleton,Gerrish,Male,12/9/89,Jackson,Mississippi,,30,814.6,South Region
+147,saxe@gmail.com,Saxe,Thurstan,Male,10/19/73,Cleveland,Ohio,7/5/17,46,80,Midwest Region
+148,herman@gmail.com,Herman,Goracci,Male,11/13/55,Baltimore,Maryland,6/20/18,64,#N/A,South Region
+149,lynda@gmail.com,Lynda,Norquay,Female,1/21/56,Brockton,Massachusetts,3/29/17,64,156.4,Northeast Region
+150,chandal@gmail.com,Chandal,Warbrick,Female,7/19/51,San Francisco,California,2/13/18,68,77.1,West Region
+151,phoebe@gmail.com,Phoebe,Quig,Female,1/31/62,Lexington,Kentucky,3/7/18,58,23,South Region
+152,alison@gmail.com,Alison,Ramsell,Female,7/24/78,Carol Stream,Illinois,10/25/16,41,#N/A,Midwest Region
+153,pincas@gmail.com,Pincas,Fick,Male,,Reno,Nevada,,,72.5,West Region
+154,bambi@gmail.com,Bambi,Robison,Female,1/18/52,Fort Lauderdale,Florida,10/31/16,68,70,South Region
+155,tate@gmail.com,Tate,Rowlett,Male,11/1/74,Syracuse,New York,,45,95.95,Northeast Region
+156,galvin@gmail.com,Galvin,Fitchew,Male,6/13/85,Saint Louis,Missouri,8/15/17,34,130.9,Midwest Region
+157,lyndsie@gmail.com,Lyndsie,Martyntsev,Female,7/14/64,Columbia,Missouri,1/27/18,55,134.4,Midwest Region
+158,yvor@gmail.com,Yvor,Bernardt,Male,11/25/70,Youngstown,Ohio,7/13/18,49,413.95,Midwest Region
+159,fenelia@gmail.com,Fenelia,Silcox,Female,9/6/77,Austin,Texas,6/18/18,42,478,South Region
+160,rosalinda@gmail.com,Rosalinda,Cluff,Female,5/6/52,Salt Lake City,Utah,6/7/17,68,3.6,West Region
+161,carolina@gmail.com,Carolina,Cottrill,Female,1/9/62,Richmond,Virginia,1/29/18,58,#N/A,South Region
+162,thom@gmail.com,Thom,Killford,Male,3/3/83,Miami,Florida,12/29/17,37,44.5,South Region
+163,mord@gmail.com,Mord,Dovydenas,Male,3/16/62,South Lake Tahoe,California,9/20/16,58,49.7,West Region
+164,melodee@gmail.com,Melodee,Scathard,Female,12/20/59,Corona,California,,60,875,West Region
+165,montague@gmail.com,Montague,McAlinden,Male,10/27/77,Memphis,Tennessee,,42,499.8,South Region
+166,corry@gmail.com,Corry,Rubert,Female,5/21/75,Rochester,New York,9/18/17,44,396,Northeast Region
+167,renado@gmail.com,Renado,Howey,Male,10/24/69,San Antonio,Texas,2/26/17,50,70,South Region
+168,dominique@gmail.com,Dominique,Mabe,Male,9/17/89,Fresno,California,8/14/17,30,228,West Region
+169,alric@gmail.com,Alric,Kilbey,Male,9/20/80,Aurora,Colorado,1/29/18,39,#N/A,West Region
+170,ange@gmail.com,Ange,Glowacki,Male,3/8/85,Portland,Oregon,2/10/17,35,72,West Region
+171,zuzana@gmail.com,Zuzana,Blowes,Female,4/8/59,Galveston,Texas,1/25/18,61,#N/A,South Region
+172,rosalynd@gmail.com,Rosalynd,Leroy,Female,5/27/53,Knoxville,Tennessee,,66,50,South Region
+173,patrizia@gmail.com,Patrizia,Huckel,Female,9/3/87,Galveston,Texas,10/16/17,32,370,South Region
+174,nickolai@gmail.com,Nickolai,Bradd,Male,1/8/80,Louisville,Kentucky,,40,58.1,South Region
+175,jermayne@gmail.com,Jermayne,Stapylton,Male,5/18/80,Bakersfield,California,,39,20.8,West Region
+176,harriette@gmail.com,Harriette,Measen,Female,11/22/62,Lehigh Acres,Florida,3/7/17,57,173.6,South Region
+177,marris@gmail.com,Marris,Stubbes,Female,2/1/52,Shawnee Mission,Kansas,,68,120,Midwest Region
+178,ana@gmail.com,Ana,Charlet,Female,7/13/52,Santa Cruz,California,,67,107.6,West Region
+179,elane@gmail.com,Elane,Frankes,Female,11/6/77,Metairie,Louisiana,,42,154.85,South Region
+180,caryl@gmail.com,Caryl,Casson,Female,5/22/75,Cincinnati,Ohio,5/28/18,44,15.8,Midwest Region
+181,kellina@gmail.com,Kellina,Catonne,Female,12/5/80,Lansing,Michigan,6/3/18,39,15,Midwest Region
+182,pierrette@gmail.com,Pierrette,Wards,Female,8/26/81,Des Moines,Iowa,,38,101.6,Midwest Region
+183,bernhard@gmail.com,Bernhard,Elders,Male,8/13/52,Fargo,North Dakota,6/23/18,67,30.75,Midwest Region
+184,luz@gmail.com,Luz,Koop,Female,9/20/57,Monticello,Minnesota,5/4/17,62,84.5,Midwest Region
+185,brittney@gmail.com,Brittney,Spacey,Female,1/6/80,Lexington,Kentucky,1/12/17,40,130.2,South Region
+186,gabbie@gmail.com,Gabbie,Leftridge,Male,8/23/64,Honolulu,Hawaii,,55,61.6,West Region
+187,abbot@gmail.com,Abbot,Backs,Male,4/10/75,Denver,Colorado,1/6/18,45,51.8,West Region
+188,dev@gmail.com,Dev,Revett,Male,8/4/56,Las Vegas,Nevada,,63,458.4,West Region
+189,viv@gmail.com,Viv,Sandry,Female,2/23/83,Farmington,Michigan,,37,143.5,Midwest Region
+190,osborn@gmail.com,Osborn,Percifer,Male,4/9/83,Washington,District of Columbia,11/24/17,37,14.6,South Region
+191,allys@gmail.com,Allys,Yellowlea,Female,6/20/69,Plano,Texas,,50,95.6,South Region
+192,davida@gmail.com,Davida,Joscelin,Female,6/26/86,Detroit,Michigan,10/18/16,33,113.8,Midwest Region
+193,clint@gmail.com,Clint,Hazeldene,Male,1/7/79,Tacoma,Washington,,41,20,West Region
+194,quinlan@gmail.com,Quinlan,I'anson,Male,4/18/59,Ashburn,Virginia,2/1/18,61,52.5,South Region
+195,dennie@gmail.com,Dennie,Wardel,Female,9/15/63,Anniston,Alabama,,56,14.2,South Region
+196,erv@gmail.com,Erv,Stebbins,Male,6/12/65,Jackson,Mississippi,3/25/17,54,403,South Region
+197,donaugh@gmail.com,Donaugh,Brando,Male,8/24/88,Little Rock,Arkansas,,31,118.35,South Region
+198,hetti@gmail.com,Hetti,Nunnery,Female,4/23/53,Washington,District of Columbia,5/19/18,67,#N/A,South Region
+199,berri@gmail.com,Berri,Britten,Female,9/28/73,Fresno,California,6/29/17,46,60.9,West Region
+200,thedric@gmail.com,Thedric,Loody,Male,10/8/65,Minneapolis,Minnesota,,54,497.4,Midwest Region
+201,gauthier@gmail.com,Gauthier,Iuorio,Male,10/17/71,Tyler,Texas,3/5/18,48,75.9,South Region
+202,sergei@gmail.com,Sergei,Denisyev,Male,3/26/89,Lexington,Kentucky,,31,113.5,South Region
+203,jayme@gmail.com,Jayme,Jacobssen,Male,1/27/61,Metairie,Louisiana,5/31/17,59,180.4,South Region
+204,kissee@gmail.com,Kissee,Sanney,Female,11/10/70,Washington,District of Columbia,1/29/18,49,323.6,South Region
+205,gretchen@gmail.com,Gretchen,Helling,Female,7/17/66,Atlanta,Georgia,2/21/17,53,331.8,South Region
+206,dido@gmail.com,Dido,Punyer,Female,11/26/59,San Francisco,California,6/29/17,60,#N/A,West Region
+207,judah@gmail.com,Judah,Wyvill,Male,11/23/51,Marietta,Georgia,12/6/16,68,60.8,South Region
+208,shepperd@gmail.com,Shepperd,Went,Male,6/22/84,Levittown,Pennsylvania,10/15/16,35,59.7,Northeast Region
+209,andonis@gmail.com,Andonis,Points,Male,7/31/78,Los Angeles,California,4/10/17,41,14.2,West Region
+210,thomasin@gmail.com,Thomasin,Glasspoole,Female,5/6/75,Washington,District of Columbia,,45,373.8,South Region
+211,juliane@gmail.com,Juliane,Soames,Female,8/10/83,Corona,California,1/15/18,36,#N/A,West Region
+212,duane@gmail.com,Duane,Skully,Male,1/22/69,Seattle,Washington,3/16/18,51,1217.2,West Region
+213,branden@gmail.com,Branden,Pickavant,Male,3/15/87,Farmington,Michigan,2/18/17,33,132.4,Midwest Region
+214,gilda@gmail.com,Gilda,Ralls,Female,7/22/65,Kansas City,Missouri,7/20/18,54,1432,Midwest Region
+215,darcie@gmail.com,Darcie,Miklem,Female,7/2/85,Henderson,Nevada,3/21/17,34,112.5,West Region
+216,marlow@gmail.com,Marlow,Stoke,Male,12/15/60,West Palm Beach,Florida,3/28/18,59,270.7,South Region
+217,garrick@gmail.com,Garrick,Oxnam,Male,8/13/60,Brooklyn,New York,9/3/17,59,#N/A,Northeast Region
+218,hobart@gmail.com,Hobart,Illyes,Male,8/4/70,Chicago,Illinois,12/8/17,49,#N/A,Midwest Region
+219,lazaro@gmail.com,Lazaro,Hanwell,Male,11/3/71,Columbia,South Carolina,8/5/18,48,3.75,South Region
+220,lilas@gmail.com,Lilas,Halms,Female,2/13/83,Phoenix,Arizona,5/3/17,37,500,West Region
+221,charley@gmail.com,Charley,Biaggi,Male,,Denver,Colorado,9/22/17,,69.25,West Region
+222,judie@gmail.com,Judie,Fandrey,Female,1/5/76,Washington,District of Columbia,,44,#N/A,South Region
+223,ag@gmail.com,Ag,Bateman,Female,,Fort Worth,Texas,1/26/18,,15,South Region
+224,susanna@gmail.com,Susanna,Shalliker,Female,12/16/50,Saint Louis,Missouri,10/25/17,69,50,Midwest Region
+225,caesar@gmail.com,Caesar,Halloway,Male,3/28/55,Tacoma,Washington,,65,#N/A,West Region
+226,dena@gmail.com,Dena,Feavearyear,Female,8/16/63,Pensacola,Florida,11/30/16,56,440,South Region
+227,hailey@gmail.com,Hailey,Suddell,Male,11/3/56,Miami,Florida,9/13/17,63,70,South Region
+228,anetta@gmail.com,Anetta,Camillo,Female,7/11/84,Milwaukee,Wisconsin,10/7/17,35,#N/A,Midwest Region
+229,brinn@gmail.com,Brinn,McIleen,Female,,Saint Louis,Missouri,,,95.5,Midwest Region
+230,gilbertine@gmail.com,Gilbertine,Beetles,Female,1/24/90,Amarillo,Texas,,30,#N/A,South Region
+231,bartolomeo@gmail.com,Bartolomeo,Burch,Male,9/25/73,Saint Paul,Minnesota,5/12/18,46,#N/A,Midwest Region
+232,matthaeus@gmail.com,Matthaeus,Forsey,Male,1/24/62,El Paso,Texas,8/12/18,58,51.1,South Region
+233,dave@gmail.com,Dave,Chaudron,Male,9/11/74,Waterbury,Connecticut,6/25/17,45,442.2,Northeast Region
+234,sidonnie@gmail.com,Sidonnie,Illwell,Female,10/20/67,New York City,New York,3/18/17,52,400,Northeast Region
+235,julian@gmail.com,Julian,Siaspinski,Male,4/18/82,Punta Gorda,Florida,,38,#N/A,South Region
+236,nathanael@gmail.com,Nathanael,Cracker,Male,2/4/67,Birmingham,Alabama,7/21/17,53,155,South Region
+237,barbara@gmail.com,Barbara,Gut,Female,5/4/75,Los Angeles,California,,45,499.6,West Region
+238,rozalin@gmail.com,Rozalin,Cuckoo,Female,5/25/69,Sacramento,California,,50,17.6,West Region
+239,trudi@gmail.com,Trudi,Godlee,Female,7/16/52,Tucson,Arizona,11/30/17,67,300,West Region
+240,lind@gmail.com,Lind,Goncaves,Female,9/12/77,Dallas,Texas,9/7/16,42,75.4,South Region
+241,carmella@gmail.com,Carmella,Shirrell,Female,6/22/58,Atlanta,Georgia,,61,67.8,South Region
+242,christal@gmail.com,Christal,Prestige,Female,10/5/86,Jefferson City,Missouri,5/1/18,33,397.6,Midwest Region
+243,addia@gmail.com,Addia,Heckle,Female,4/22/66,Stockton,California,,54,484.8,West Region
+244,roch@gmail.com,Roch,Bownas,Female,12/21/74,Katy,Texas,2/10/17,45,#N/A,South Region
+245,tricia@gmail.com,Tricia,Lamond,Female,4/1/77,Lancaster,California,11/8/17,43,219,West Region
+246,garrik@gmail.com,Garrik,Walklott,Male,5/18/71,Orlando,Florida,,49,#N/A,South Region
+247,joyann@gmail.com,Joyann,Eckels,Female,12/15/85,Santa Barbara,California,10/10/17,34,#N/A,West Region
+248,huntlee@gmail.com,Huntlee,Worgen,Male,5/6/64,Staten Island,New York,6/15/17,56,520,Northeast Region
+249,giacopo@gmail.com,Giacopo,Guillem,Male,12/4/87,Jamaica,New York,10/21/17,32,101.5,Northeast Region
+250,kary@gmail.com,Kary,Sigfrid,Female,4/1/51,Carlsbad,California,7/31/18,69,138.95,West Region
+251,mara@gmail.com,Mara,McGourty,Female,8/26/79,Garland,Texas,12/19/17,40,70,South Region
+252,nicko@gmail.com,Nicko,Flea,Male,11/18/77,Oklahoma City,Oklahoma,,42,70,South Region
+253,care@gmail.com,Care,Shapira,Male,10/26/76,Chicago,Illinois,11/27/17,43,#N/A,Midwest Region
+254,jesse@gmail.com,Jesse,Mackro,Female,2/18/70,Ann Arbor,Michigan,3/20/18,50,589,Midwest Region
+255,giorgia@gmail.com,Giorgia,Clair,Female,11/2/61,Marietta,Georgia,3/9/17,58,#N/A,South Region
+256,zorina@gmail.com,Zorina,Grzelak,Female,5/31/83,South Bend,Indiana,,36,400,Midwest Region
+257,codie@gmail.com,Codie,Gobeau,Male,5/2/88,Wilmington,Delaware,10/4/16,32,359.5,South Region
+258,lucita@gmail.com,Lucita,Greatland,Female,3/9/84,San Antonio,Texas,,36,73.55,South Region
+259,kirk@gmail.com,Kirk,Letts,Male,,Cincinnati,Ohio,12/31/17,,50,Midwest Region
+260,glenda@gmail.com,Glenda,Pooly,Female,5/23/56,El Paso,Texas,10/24/16,63,70,South Region
+261,trefor@gmail.com,Trefor,Antonetti,Male,11/13/85,Lexington,Kentucky,11/19/17,34,576.7,South Region
+262,hewett@gmail.com,Hewett,Donativo,Male,7/29/63,Greensboro,North Carolina,,56,407,South Region
+263,kally@gmail.com,Kally,Barrable,Female,9/15/87,Pittsburgh,Pennsylvania,3/15/18,32,#N/A,Northeast Region
+264,spencer@gmail.com,Spencer,Risso,Male,6/24/59,Hartford,Connecticut,2/5/17,60,70,Northeast Region
+265,ludvig@gmail.com,Ludvig,Kopje,Male,10/20/80,Lakewood,Washington,,39,151.4,West Region
+266,constanta@gmail.com,Constanta,Noyce,Female,12/12/55,Nashville,Tennessee,10/25/17,64,80,South Region
+267,tallulah@gmail.com,Tallulah,Knapton,Female,3/28/90,Naples,Florida,,30,59.2,South Region
+268,carroll@gmail.com,Carroll,Schneider,Female,5/11/75,Indianapolis,Indiana,6/30/17,45,145.8,Midwest Region
+269,dinah@gmail.com,Dinah,Bertomeu,Female,7/3/65,Portland,Oregon,1/10/18,54,17.8,West Region
+270,bianca@gmail.com,Bianca,Gaskin,Female,10/13/58,San Antonio,Texas,9/21/16,61,100,South Region
+271,ilyssa@gmail.com,Ilyssa,Crome,Female,3/31/78,Atlanta,Georgia,1/6/18,42,105.7,South Region
+272,hobie@gmail.com,Hobie,Corn,Male,2/22/77,Lincoln,Nebraska,6/12/18,43,#N/A,Midwest Region
+273,kaile@gmail.com,Kaile,Abrahamsohn,Female,6/30/77,Norcross,Georgia,1/26/17,42,400,South Region
+274,tammy@gmail.com,Tammy,Frarey,Female,12/12/84,Denver,Colorado,,35,155,West Region
+275,catherina@gmail.com,Catherina,Befroy,Female,6/26/76,Odessa,Texas,9/12/16,43,70,South Region
+276,kimberli@gmail.com,Kimberli,Hanny,Female,7/8/76,San Diego,California,,43,370.2,West Region
+277,farrell@gmail.com,Farrell,Greensmith,Male,1/5/72,Pensacola,Florida,1/9/18,48,540.4,South Region
+278,norbert@gmail.com,Norbert,Keetch,Male,5/6/84,Dallas,Texas,8/26/17,36,23.65,South Region
+279,darya@gmail.com,Darya,MacKenney,Female,3/27/66,Dearborn,Michigan,6/26/18,54,100,Midwest Region
+280,marie-jeanne@gmail.com,Marie-jeanne,Gulliver,Female,2/22/57,Columbus,Ohio,2/13/17,63,123.8,Midwest Region
+281,vivie@gmail.com,Vivie,Gierth,Female,1/11/54,Louisville,Kentucky,,66,#N/A,South Region
+282,glendon@gmail.com,Glendon,Clemerson,Male,8/13/77,Fort Lauderdale,Florida,,42,5,South Region
+283,harlen@gmail.com,Harlen,Robilliard,Male,1/2/58,Wilkes Barre,Pennsylvania,,62,68,Northeast Region
+284,worthington@gmail.com,Worthington,La Wille,Male,7/5/54,Riverside,California,12/31/16,65,400,West Region
+285,gram@gmail.com,Gram,Stelle,Male,7/28/60,Baton Rouge,Louisiana,11/12/16,59,421.85,South Region
+286,kali@gmail.com,Kali,Jedraszczyk,Female,11/12/74,Madison,Wisconsin,10/24/17,45,47.5,Midwest Region
+287,tammy@gmail.com,Tammy,Ion,Female,12/8/89,Houston,Texas,7/2/18,30,400,South Region
+288,andrey@gmail.com,Andrey,Soffe,Male,3/4/58,Merrifield,Virginia,,62,#N/A,South Region
+289,calhoun@gmail.com,Calhoun,Dangl,Male,6/20/86,Richmond,Virginia,6/10/18,33,3.65,South Region
+290,wilmette@gmail.com,Wilmette,Calveley,Female,3/31/79,Washington,District of Columbia,,41,253.35,South Region
+291,emmery@gmail.com,Emmery,Genike,Male,5/26/68,Brooklyn,New York,3/7/18,51,206,Northeast Region
+292,say@gmail.com,Say,Madle,Male,12/2/82,Oklahoma City,Oklahoma,2/5/18,37,#N/A,South Region
+293,filberte@gmail.com,Filberte,Swains,Male,3/19/69,Nashville,Tennessee,,51,#N/A,South Region
+294,valentina@gmail.com,Valentina,Titterton,Female,8/13/83,Corpus Christi,Texas,6/19/18,36,#N/A,South Region
+295,collin@gmail.com,Collin,Mundwell,Male,4/17/76,Baltimore,Maryland,1/30/18,44,20,South Region
+296,edgar@gmail.com,Edgar,Stiebler,Male,1/30/78,Louisville,Kentucky,,42,320.4,South Region
+297,johnathon@gmail.com,Johnathon,Tuft,Male,11/19/58,Wichita,Kansas,,61,400,Midwest Region
+298,russell@gmail.com,Russell,Eric,Male,9/26/84,Beaufort,South Carolina,,35,458.4,South Region
+299,lemmie@gmail.com,Lemmie,Tolussi,Male,4/2/60,Spring,Texas,9/17/17,60,#N/A,South Region
+300,daile@gmail.com,Daile,Mouncey,Female,12/30/60,Raleigh,North Carolina,6/15/17,59,20,South Region
+301,roberta@gmail.com,Roberta,Trimmill,Female,11/15/88,Boulder,Colorado,5/25/18,31,16.8,West Region
+302,winni@gmail.com,Winni,Chaff,Female,12/1/71,Chula Vista,California,3/12/18,48,50,West Region
+303,yalonda@gmail.com,Yalonda,Skarr,Female,7/27/60,Lincoln,Nebraska,3/28/17,59,#N/A,Midwest Region
+304,christie@gmail.com,Christie,Thews,Male,1/2/64,Washington,District of Columbia,,56,284,South Region
+305,richardo@gmail.com,Richardo,Boustead,Male,11/30/57,Detroit,Michigan,,62,420,Midwest Region
+306,willie@gmail.com,Willie,Creighton,Female,7/19/74,Houston,Texas,2/9/17,45,140,South Region
+307,chelsie@gmail.com,Chelsie,Simants,Female,5/16/87,Houston,Texas,,32,#N/A,South Region
+308,carmel@gmail.com,Carmel,Walby,Female,,Cleveland,Ohio,,,36.2,Midwest Region
+309,christophe@gmail.com,Christophe,Ricardon,Male,6/7/81,Phoenix,Arizona,6/19/17,38,736,West Region
+310,shandie@gmail.com,Shandie,Harral,Female,,Lake Worth,Florida,,,80,South Region
+311,patton@gmail.com,Patton,Hartmann,Male,12/5/60,Tacoma,Washington,,59,80,West Region
+312,raynell@gmail.com,Raynell,Juggings,Female,2/23/62,Santa Cruz,California,4/25/17,58,457.35,West Region
+313,mikel@gmail.com,Mikel,Pellman,Male,5/2/84,Columbia,South Carolina,,36,150,South Region
+314,laird@gmail.com,Laird,Ariss,Male,,Dallas,Texas,5/2/18,,20,South Region
+315,rachael@gmail.com,Rachael,Honniebal,Female,11/6/58,Charlotte,North Carolina,4/11/17,61,73.2,South Region
+316,zitella@gmail.com,Zitella,Skechley,Female,9/10/65,Springfield,Missouri,,54,372,Midwest Region
+317,packston@gmail.com,Packston,Chettle,Male,1/12/58,Tucson,Arizona,,62,#N/A,West Region
+318,rubetta@gmail.com,Rubetta,Dunbobbin,Female,12/8/61,Sioux Falls,South Dakota,1/23/18,58,#N/A,Midwest Region
+319,missy@gmail.com,Missy,Reiners,Female,9/25/60,Tacoma,Washington,5/23/18,59,74.55,West Region
+320,gearalt@gmail.com,Gearalt,Fenge,Male,10/12/65,Yakima,Washington,,54,18,West Region
+321,enrica@gmail.com,Enrica,Teodoro,Female,12/26/78,Chicago,Illinois,,41,20,Midwest Region
+322,burch@gmail.com,Burch,Gasnoll,Male,8/10/90,Albuquerque,New Mexico,4/6/17,29,45,West Region
+323,delores@gmail.com,Delores,Bellew,Female,9/3/59,Nashville,Tennessee,12/3/17,60,8.65,South Region
+324,laurella@gmail.com,Laurella,Corro,Female,11/25/72,Stamford,Connecticut,2/9/18,47,113,Northeast Region
+325,kennith@gmail.com,Kennith,Munt,Male,6/26/74,Los Angeles,California,6/3/17,45,#N/A,West Region
+326,danella@gmail.com,Danella,Lorriman,Female,4/23/67,Harrisburg,Pennsylvania,4/24/17,53,484.2,Northeast Region
+327,rolland@gmail.com,Rolland,Phinn,Male,1/20/89,Shreveport,Louisiana,,31,729.6,South Region
+328,zitella@gmail.com,Zitella,Langford,Female,11/17/53,Boise,Idaho,,66,20,West Region
+329,andris@gmail.com,Andris,O'Dyvoy,Male,11/7/77,Boston,Massachusetts,,42,307.8,Northeast Region
+330,clyve@gmail.com,Clyve,Barfield,Male,2/10/64,Biloxi,Mississippi,,56,420,South Region
+331,katharine@gmail.com,Katharine,Simecek,Female,3/1/82,Huntington,West Virginia,1/1/17,38,109.7,South Region
+332,dalston@gmail.com,Dalston,Cromblehome,Male,4/14/88,San Jose,California,8/7/18,32,132.9,West Region
+333,beatrisa@gmail.com,Beatrisa,Baldree,Female,1/21/57,Frankfort,Kentucky,,63,400,South Region
+334,shaughn@gmail.com,Shaughn,Drewitt,Male,9/3/87,Alpharetta,Georgia,5/15/18,32,70,South Region
+335,dannie@gmail.com,Dannie,Sudran,Female,3/24/90,Louisville,Kentucky,3/9/18,30,207.8,South Region
+336,nahum@gmail.com,Nahum,Troctor,Male,4/13/73,Evansville,Indiana,3/25/17,47,527,Midwest Region
+337,fina@gmail.com,Fina,Antrum,Female,8/19/78,Boston,Massachusetts,7/31/18,41,61.6,Northeast Region
+338,lois@gmail.com,Lois,Baszniak,Female,12/13/72,Syracuse,New York,11/12/16,47,#N/A,Northeast Region
+339,aldo@gmail.com,Aldo,Fairlem,Male,11/24/74,Los Angeles,California,,45,497.4,West Region
+340,mellisa@gmail.com,Mellisa,Scapens,Female,11/18/62,Dallas,Texas,,57,3.95,South Region
+341,eli@gmail.com,Eli,Insko,Male,2/1/81,Troy,Michigan,9/23/16,39,142.7,Midwest Region
+342,nanni@gmail.com,Nanni,Bircher,Female,6/23/58,Santa Monica,California,6/2/17,61,3.95,West Region
+343,david@gmail.com,David,Ohrtmann,Male,1/26/89,Kansas City,Missouri,,31,89.6,Midwest Region
+344,lock@gmail.com,Lock,Woolsey,Male,12/3/71,Anchorage,Alaska,7/10/18,48,300,West Region
+345,timofei@gmail.com,Timofei,Lent,Male,2/8/73,Akron,Ohio,3/9/17,47,171.2,Midwest Region
+346,torrin@gmail.com,Torrin,Grise,Male,8/10/77,Lehigh Acres,Florida,8/23/17,42,384.9,South Region
+347,cheston@gmail.com,Cheston,Kilmister,Male,10/9/88,El Paso,Texas,,31,#N/A,South Region
+348,kippie@gmail.com,Kippie,Ackroyd,Male,6/29/76,Modesto,California,9/7/17,43,793.6,West Region
+349,henka@gmail.com,Henka,Gitting,Female,9/17/53,Racine,Wisconsin,,66,220,Midwest Region
+350,becky@gmail.com,Becky,Breakey,Female,4/29/56,Kalamazoo,Michigan,11/5/17,64,#N/A,Midwest Region
+351,morty@gmail.com,Morty,Durnell,Male,7/5/73,Houston,Texas,,46,180.8,South Region
+352,cristobal@gmail.com,Cristobal,Twort,Male,2/8/52,Evansville,Indiana,,68,540.4,Midwest Region
+353,alameda@gmail.com,Alameda,Samwayes,Female,3/28/57,Orlando,Florida,4/17/17,63,140,South Region
+354,karlan@gmail.com,Karlan,Eltringham,Male,1/5/89,Modesto,California,3/25/17,31,148.8,West Region
+355,octavia@gmail.com,Octavia,Burdikin,Female,,Salt Lake City,Utah,12/25/17,,525,West Region
+356,demetria@gmail.com,Demetria,Elphinston,Female,6/11/51,Houston,Texas,2/22/18,68,100,South Region
+357,yanaton@gmail.com,Yanaton,O'Shirine,Male,2/4/64,Brooklyn,New York,,56,84.85,Northeast Region
+358,erroll@gmail.com,Erroll,Everex,Male,8/10/74,Columbia,South Carolina,6/8/18,45,372,South Region
+359,verina@gmail.com,Verina,Sharpe,Female,11/26/70,Asheville,North Carolina,12/4/17,49,132.3,South Region
+360,laurie@gmail.com,Laurie,Loyd,Male,2/12/64,Spokane,Washington,7/21/17,56,70,West Region
+361,ebenezer@gmail.com,Ebenezer,McGeneay,Male,8/6/56,Birmingham,Alabama,,63,#N/A,South Region
+362,butch@gmail.com,Butch,Cinnamond,Male,2/3/87,Corona,California,12/25/16,33,50,West Region
+363,gerrie@gmail.com,Gerrie,Mosco,Male,1/17/62,Dallas,Texas,8/5/18,58,112.3,South Region
+364,franz@gmail.com,Franz,Dislee,Male,,Fort Lauderdale,Florida,,,56,South Region
+365,niel@gmail.com,Niel,Kliesl,Male,4/9/89,Oakland,California,12/16/16,31,70,West Region
+366,fonz@gmail.com,Fonz,Varlow,Male,7/24/63,Bakersfield,California,10/6/16,56,208.7,West Region
+367,raff@gmail.com,Raff,Banbrook,Male,8/24/51,Fairbanks,Alaska,5/13/17,68,265.3,West Region
+368,joel@gmail.com,Joel,McReynolds,Male,10/11/84,Jacksonville,Florida,,35,50,South Region
+369,sheri@gmail.com,Sheri,Dottrell,Female,11/14/50,Denver,Colorado,4/17/17,69,167,West Region
+370,jefferson@gmail.com,Jefferson,Doulton,Male,8/3/70,Columbia,South Carolina,7/24/17,49,557,South Region
+371,romona@gmail.com,Romona,Julien,Female,10/10/71,Cleveland,Ohio,11/8/16,48,207.2,Midwest Region
+372,elonore@gmail.com,Elonore,Seldner,Female,8/13/77,Miami,Florida,7/23/17,42,24.4,South Region
+373,averil@gmail.com,Averil,Hayto,Male,4/12/52,Austin,Texas,,68,111.85,South Region
+374,jillana@gmail.com,Jillana,Knibbs,Female,5/27/65,Oakland,California,4/14/17,54,123.9,West Region
+375,margalo@gmail.com,Margalo,Pinn,Female,11/7/78,Fairfax,Virginia,7/10/17,41,#N/A,South Region
+376,daniele@gmail.com,Daniele,Thairs,Female,11/5/58,El Paso,Texas,,61,109.4,South Region
+377,wit@gmail.com,Wit,Toman,Male,2/11/85,Kansas City,Missouri,1/3/18,35,168.6,Midwest Region
+378,baxie@gmail.com,Baxie,Ghilardi,Male,12/31/73,Henderson,Nevada,,46,40,West Region
+379,tabb@gmail.com,Tabb,Noton,Male,9/14/64,Spartanburg,South Carolina,12/12/17,55,201.6,South Region
+380,ronny@gmail.com,Ronny,Kenealy,Male,3/24/90,Greenville,South Carolina,,30,453.9,South Region
+381,gar@gmail.com,Gar,Ioannou,Male,1/12/78,Kansas City,Kansas,,42,158.5,Midwest Region
+382,alley@gmail.com,Alley,Jefferys,Male,8/10/56,Washington,District of Columbia,4/3/18,63,15.8,South Region
+383,berti@gmail.com,Berti,Arnaudot,Male,10/24/84,Sacramento,California,10/4/17,35,14.4,West Region
+384,jeramie@gmail.com,Jeramie,Kay,Male,9/3/68,San Bernardino,California,12/2/16,51,93.7,West Region
+385,dominique@gmail.com,Dominique,Bonnette,Female,10/22/76,Clearwater,Florida,,43,70,South Region
+386,jessalin@gmail.com,Jessalin,Drepp,Female,9/29/73,New York City,New York,11/12/16,46,108.8,Northeast Region
+387,al@gmail.com,Al,Durn,Male,12/10/50,Atlanta,Georgia,6/16/17,69,25,South Region
+388,donny@gmail.com,Donny,Darrigone,Male,7/28/71,Detroit,Michigan,8/29/17,48,130,Midwest Region
+389,sarita@gmail.com,Sarita,Crevagh,Female,12/4/74,San Mateo,California,,45,65.8,West Region
+390,cher@gmail.com,Cher,Ellwood,Female,10/21/50,Springfield,Illinois,,69,420,Midwest Region
+391,northrup@gmail.com,Northrup,Aldham,Male,,Harrisburg,Pennsylvania,11/17/16,,53.45,Northeast Region
+392,christophe@gmail.com,Christophe,Merrill,Male,1/2/65,Pensacola,Florida,3/9/17,55,370.8,South Region
+393,muire@gmail.com,Muire,Landrick,Female,5/11/71,Billings,Montana,,49,300.2,West Region
+394,winifield@gmail.com,Winifield,Brodhead,Male,1/5/71,Miami,Florida,2/8/18,49,43.5,South Region
+395,prescott@gmail.com,Prescott,Drews,Male,3/24/86,Melbourne,Florida,11/19/16,34,108,South Region
+396,nesta@gmail.com,Nesta,Gingel,Female,2/20/80,Vancouver,Washington,4/1/17,40,132,West Region
+397,ronalda@gmail.com,Ronalda,Ickowics,Female,3/8/77,Irvine,California,5/12/17,43,293.2,West Region
+398,cordell@gmail.com,Cordell,Darlasson,Male,,Laredo,Texas,10/25/17,,470.7,South Region
+399,mayor@gmail.com,Mayor,Geekin,Male,6/4/62,Pittsburgh,Pennsylvania,11/5/17,57,70.4,Northeast Region
+400,isador@gmail.com,Isador,Goldin,Male,8/25/73,San Antonio,Texas,,46,121.5,South Region
+401,bryna@gmail.com,Bryna,Chevin,Female,8/25/56,Detroit,Michigan,10/24/17,63,130,Midwest Region
+402,keelby@gmail.com,Keelby,Tomet,Male,11/19/66,Shawnee Mission,Kansas,10/16/17,53,#N/A,Midwest Region
+403,sal@gmail.com,Sal,Dykas,Male,11/15/85,New York City,New York,6/14/17,34,141,Northeast Region
+404,daffy@gmail.com,Daffy,Saffe,Female,1/1/83,Chicago,Illinois,3/30/17,37,3.6,Midwest Region
+405,ileana@gmail.com,Ileana,Grancher,Female,5/31/57,San Antonio,Texas,,62,788,South Region
+406,humbert@gmail.com,Humbert,Barcroft,Male,4/10/66,Corpus Christi,Texas,,54,20,South Region
+407,carola@gmail.com,Carola,Varnes,Female,10/27/80,Cincinnati,Ohio,9/26/16,39,404.9,Midwest Region
+408,viva@gmail.com,Viva,Studholme,Female,1/2/65,Charleston,West Virginia,,55,36,South Region
+409,don@gmail.com,Don,Bwy,Male,8/21/82,Boca Raton,Florida,4/25/18,37,55,South Region
+410,normie@gmail.com,Normie,Frew,Male,8/22/83,Portland,Oregon,6/12/18,36,5,West Region
+411,antonino@gmail.com,Antonino,Asey,Male,12/1/82,Des Moines,Iowa,,37,123,Midwest Region
+412,ripley@gmail.com,Ripley,Kohring,Male,5/22/54,Des Moines,Iowa,11/7/17,66,55.5,Midwest Region
+413,jena@gmail.com,Jena,Teresia,Female,6/5/57,Washington,District of Columbia,,62,136.9,South Region
+414,betteanne@gmail.com,Betteanne,Manz,Female,3/12/62,Columbia,South Carolina,1/13/18,58,#N/A,South Region
+415,nikolai@gmail.com,Nikolai,Janjusevic,Male,2/9/57,Delray Beach,Florida,12/1/17,63,61,South Region
+416,leeann@gmail.com,Leeann,Bellerby,Female,11/20/85,Corpus Christi,Texas,3/28/18,34,#N/A,South Region
+417,garrard@gmail.com,Garrard,Rowe,Male,9/12/87,Houston,Texas,,32,110.5,South Region
+418,lombard@gmail.com,Lombard,Kemble,Male,12/31/64,Charlotte,North Carolina,4/5/18,55,423,South Region
+419,regan@gmail.com,Regan,Hadigate,Male,11/24/55,Washington,District of Columbia,,64,855.3,South Region
+420,carlita@gmail.com,Carlita,Ranken,Female,11/12/74,Omaha,Nebraska,2/23/18,45,125,Midwest Region
+421,clemmy@gmail.com,Clemmy,Daffern,Male,4/29/76,Mc Keesport,Pennsylvania,8/8/17,44,57.6,Northeast Region
+422,beverlie@gmail.com,Beverlie,Matteo,Female,9/2/85,Mesa,Arizona,,34,313,West Region
+423,natalya@gmail.com,Natalya,Pavia,Female,11/10/55,Atlanta,Georgia,9/15/16,64,886.4,South Region
+424,maurise@gmail.com,Maurise,Bonnell,Male,6/27/80,Fairfield,Connecticut,7/5/17,39,20,Northeast Region
+425,marcelia@gmail.com,Marcelia,Maso,Female,2/25/55,Kansas City,Missouri,,65,611.9,Midwest Region
+426,dory@gmail.com,Dory,Tuddenham,Female,10/21/82,Jackson,Mississippi,5/14/18,37,85,South Region
+427,robinetta@gmail.com,Robinetta,McGeoch,Female,6/19/80,Columbus,Ohio,,39,56.7,Midwest Region
+428,clim@gmail.com,Clim,Arnholdt,Male,8/20/71,Las Vegas,Nevada,,48,80,West Region
+429,stevie@gmail.com,Stevie,Braunroth,Male,5/8/65,Gary,Indiana,,55,64,Midwest Region
+430,antoine@gmail.com,Antoine,Lethby,Male,4/6/73,Salt Lake City,Utah,6/1/17,47,470,West Region
+431,layne@gmail.com,Layne,Sawbridge,Female,12/13/68,Tulsa,Oklahoma,6/12/18,51,328,South Region
+432,d'arcy@gmail.com,D'arcy,Shevels,Male,10/5/65,Green Bay,Wisconsin,5/11/18,54,139.9,Midwest Region
+433,dasie@gmail.com,Dasie,Quarrell,Female,4/19/67,Sunnyvale,California,12/30/16,53,61.6,West Region
+434,jerry@gmail.com,Jerry,Colquitt,Male,10/10/55,Oakland,California,5/28/17,64,66.8,West Region
+435,ralina@gmail.com,Ralina,Redan,Female,4/23/55,Lakeland,Florida,,65,109.3,South Region
+436,murdock@gmail.com,Murdock,Claughton,Male,2/6/53,Round Rock,Texas,7/29/18,67,64,South Region
+437,bambi@gmail.com,Bambi,Wren,Female,9/4/69,Raleigh,North Carolina,,50,#N/A,South Region
+438,bord@gmail.com,Bord,Rosencwaig,Male,9/14/64,East Saint Louis,Illinois,,55,848.75,Midwest Region
+439,yorke@gmail.com,Yorke,Tyt,Male,,Mesquite,Texas,12/17/17,,68,South Region
+440,walliw@gmail.com,Walliw,Llewelly,Female,8/21/83,Clearwater,Florida,6/8/18,36,20,South Region
+441,madelena@gmail.com,Madelena,Cosins,Female,4/22/57,East Saint Louis,Illinois,,63,104.2,Midwest Region
+442,malinda@gmail.com,Malinda,Scouler,Female,11/2/71,San Diego,California,4/18/18,48,163.2,West Region
+443,nikita@gmail.com,Nikita,Muneely,Male,6/25/58,Washington,District of Columbia,,61,817.4,South Region
+444,laurianne@gmail.com,Laurianne,Longcaster,Female,10/15/65,Levittown,Pennsylvania,3/21/17,54,#N/A,Northeast Region
+445,sig@gmail.com,Sig,Pettisall,Male,8/1/66,Baton Rouge,Louisiana,,53,330,South Region
+446,hillard@gmail.com,Hillard,Axtell,Male,4/21/51,Glendale,Arizona,12/31/16,69,127.5,West Region
+447,andriana@gmail.com,Andriana,Marrison,Female,8/20/56,Portland,Oregon,3/15/18,63,95,West Region
+448,neely@gmail.com,Neely,Managh,Female,1/20/53,Gainesville,Florida,,67,400,South Region
+449,krishna@gmail.com,Krishna,Giacomelli,Male,4/28/73,Washington,District of Columbia,,47,70,South Region
+450,sigfrid@gmail.com,Sigfrid,Delmonti,Male,10/18/77,Roanoke,Virginia,5/10/17,42,120.6,South Region
+451,harris@gmail.com,Harris,Huxter,Male,11/13/60,Cincinnati,Ohio,1/18/17,59,400,Midwest Region
+452,rockey@gmail.com,Rockey,Muckle,Male,3/14/83,Jacksonville,Florida,8/21/17,37,150,South Region
+453,graig@gmail.com,Graig,Littleton,Male,9/14/51,Beaumont,Texas,,68,55,South Region
+454,conrado@gmail.com,Conrado,Gilcriest,Male,10/2/82,Provo,Utah,10/12/16,37,50,West Region
+455,ebony@gmail.com,Ebony,Fareweather,Female,5/5/81,Cleveland,Ohio,9/4/17,39,450,Midwest Region
+456,latashia@gmail.com,Latashia,Guyer,Female,9/5/75,Salem,Oregon,,44,#N/A,West Region
+457,bendite@gmail.com,Bendite,Stallard,Female,5/19/85,San Antonio,Texas,,34,444,South Region
+458,dunn@gmail.com,Dunn,Blanc,Male,10/16/58,Memphis,Tennessee,4/5/17,61,181.5,South Region
+459,alejandrina@gmail.com,Alejandrina,Huyghe,Female,2/10/66,Kansas City,Kansas,,54,420.6,Midwest Region
+460,alfreda@gmail.com,Alfreda,Winckworth,Female,5/6/81,Atlanta,Georgia,,39,70,South Region
+461,ingaborg@gmail.com,Ingaborg,MacInerney,Female,1/10/82,Memphis,Tennessee,,38,471.9,South Region
+462,dilly@gmail.com,Dilly,Camlin,Male,5/4/86,Paterson,New Jersey,3/7/17,34,234,Northeast Region
+463,pamela@gmail.com,Pamela,De Bruijn,Female,1/10/84,Houston,Texas,8/10/18,36,133.5,South Region
+464,meredeth@gmail.com,Meredeth,Bryning,Male,7/9/61,Inglewood,California,3/17/18,58,50.4,West Region
+465,adria@gmail.com,Adria,Kettleson,Female,8/3/78,Miami,Florida,4/10/17,41,405,South Region
+466,inglebert@gmail.com,Inglebert,Eagland,Male,10/9/84,Buffalo,New York,9/10/16,35,107,Northeast Region
+467,shepherd@gmail.com,Shepherd,Loosemore,Male,11/3/63,Charlotte,North Carolina,,56,73.95,South Region
+468,kipp@gmail.com,Kipp,Batchelder,Male,2/8/69,Minneapolis,Minnesota,1/13/18,51,#N/A,Midwest Region
+469,malinda@gmail.com,Malinda,Conville,Female,6/13/57,Boise,Idaho,3/18/17,62,5,West Region
+470,meier@gmail.com,Meier,Carass,Male,9/18/83,San Diego,California,5/29/17,36,#N/A,West Region
+471,malchy@gmail.com,Malchy,Scholer,Male,6/2/53,Fort Lauderdale,Florida,,66,420,South Region
+472,edan@gmail.com,Edan,Dows,Male,5/30/62,Boulder,Colorado,1/9/17,57,55.3,West Region
+473,sydney@gmail.com,Sydney,Baddiley,Female,11/23/65,Yakima,Washington,,54,138,West Region
+474,maxy@gmail.com,Maxy,Wolstenholme,Male,1/11/57,Tucson,Arizona,,63,#N/A,West Region
+475,christophe@gmail.com,Christophe,Shorland,Male,5/16/55,Syracuse,New York,1/13/17,65,23.8,Northeast Region
+476,abrahan@gmail.com,Abrahan,Dishmon,Male,10/15/74,Las Cruces,New Mexico,10/8/17,45,417.8,West Region
+477,matelda@gmail.com,Matelda,Wilstead,Female,3/5/89,Oklahoma City,Oklahoma,,31,344,South Region
+478,dannie@gmail.com,Dannie,Bracher,Female,12/14/52,Houston,Texas,6/6/17,67,339,South Region
+479,fae@gmail.com,Fae,Gibben,Female,1/22/53,Hattiesburg,Mississippi,6/24/18,67,64.65,South Region
+480,dalia@gmail.com,Dalia,Primett,Female,8/1/84,Salt Lake City,Utah,4/3/17,35,450,West Region
+481,verney@gmail.com,Verney,Conley,Male,4/11/70,Tallahassee,Florida,,50,211.1,South Region
+482,ashil@gmail.com,Ashil,Jest,Female,6/29/86,Vero Beach,Florida,8/15/17,33,57.6,South Region
+483,kristal@gmail.com,Kristal,Crookshanks,Female,4/22/65,Memphis,Tennessee,,55,#N/A,South Region
+484,kris@gmail.com,Kris,Testo,Male,4/17/63,Lincoln,Nebraska,6/7/18,57,60.3,Midwest Region
+485,gib@gmail.com,Gib,Darrington,Male,3/19/65,Lakeland,Florida,7/2/18,55,136.6,South Region
+486,gavra@gmail.com,Gavra,Macilhench,Female,11/24/53,Columbia,South Carolina,,66,25,South Region
+487,emelita@gmail.com,Emelita,Pavlishchev,Female,,Colorado Springs,Colorado,1/3/17,,60,West Region
+488,persis@gmail.com,Persis,Richings,Female,6/12/62,Arvada,Colorado,,57,137.2,West Region
+489,lucinda@gmail.com,Lucinda,Braunthal,Female,1/2/84,Louisville,Kentucky,4/1/17,36,#N/A,South Region
+490,dyane@gmail.com,Dyane,Brownsall,Female,,Birmingham,Alabama,7/7/17,,16.2,South Region
+491,codee@gmail.com,Codee,Kingswell,Female,10/12/72,Jacksonville,Florida,4/5/17,47,119.5,South Region
+492,elfrida@gmail.com,Elfrida,Matisse,Female,4/18/71,Orlando,Florida,4/8/18,49,68,South Region
+493,locke@gmail.com,Locke,Kilford,Male,7/16/85,Decatur,Illinois,11/11/16,34,#N/A,Midwest Region
+494,ginger@gmail.com,Ginger,Wyson,Male,10/14/79,Memphis,Tennessee,,40,140,South Region
+495,anatol@gmail.com,Anatol,Crocumbe,Male,2/10/89,Dallas,Texas,7/14/18,31,119,South Region
+496,yank@gmail.com,Yank,Beckson,Male,10/7/88,Bloomington,Illinois,,31,90,Midwest Region
+497,ashil@gmail.com,Ashil,Boater,Female,12/23/63,Wilmington,North Carolina,,56,140.4,South Region
+498,mattie@gmail.com,Mattie,Ovesen,Female,6/21/76,Washington,District of Columbia,,43,476,South Region
+499,sonnie@gmail.com,Sonnie,Willavoys,Female,9/25/76,Santa Monica,California,,43,#N/A,West Region
+500,quincey@gmail.com,Quincey,Ubach,Male,5/10/51,Pensacola,Florida,,69,424.55,South Region
+501,ethan@gmail.com,Ethan,Heephy,Male,12/9/87,Houston,Texas,,32,205.9,South Region
+502,madelin@gmail.com,Madelin,Mobius,Female,8/22/52,Honolulu,Hawaii,12/1/16,67,70,West Region
+503,donnajean@gmail.com,Donnajean,Whitsun,Female,9/8/66,Springfield,Illinois,,53,332,Midwest Region
+504,melina@gmail.com,Melina,Flemming,Female,2/16/64,Lake Charles,Louisiana,12/13/16,56,5,South Region
+505,wilhelmine@gmail.com,Wilhelmine,Scothorn,Female,,New Castle,Pennsylvania,,,130.9,Northeast Region
+506,daria@gmail.com,Daria,Lantuff,Female,6/7/61,Boulder,Colorado,11/8/16,58,58.2,West Region
+507,corrie@gmail.com,Corrie,Zavattero,Male,8/24/50,Mc Keesport,Pennsylvania,9/28/16,69,537.95,Northeast Region
+508,christabel@gmail.com,Christabel,MacShirie,Female,3/2/84,Santa Barbara,California,,36,59.5,West Region
+509,sandie@gmail.com,Sandie,Haskins,Female,,Valley Forge,Pennsylvania,7/15/17,,351.5,Northeast Region
+510,ragnar@gmail.com,Ragnar,Tchaikovsky,Male,4/17/63,Oxnard,California,8/13/18,57,4.3,West Region
+511,codie@gmail.com,Codie,Esson,Male,9/20/82,Buffalo,New York,3/15/17,37,66,Northeast Region
+512,lila@gmail.com,Lila,Geistbeck,Female,4/6/71,Aurora,Colorado,,49,521.1,West Region
+513,ricard@gmail.com,Ricard,Savoury,Male,1/10/51,Birmingham,Alabama,12/24/17,69,470,South Region
+514,leia@gmail.com,Leia,Trevan,Female,7/8/66,Fort Lauderdale,Florida,2/17/18,53,20,South Region
+515,tina@gmail.com,Tina,Manchett,Female,4/29/74,Richmond,Virginia,5/13/17,46,#N/A,South Region
+516,susy@gmail.com,Susy,Gowing,Female,,Salt Lake City,Utah,12/22/17,,419.2,West Region
+517,darbie@gmail.com,Darbie,Nunan,Female,11/27/84,Miami,Florida,,35,#N/A,South Region
+518,arny@gmail.com,Arny,Vettore,Male,,Philadelphia,Pennsylvania,10/13/17,,175.3,Northeast Region
+519,horace@gmail.com,Horace,Fairburn,Male,7/7/63,Washington,District of Columbia,,56,43,South Region
+520,vilma@gmail.com,Vilma,Porker,Female,11/11/76,Charleston,West Virginia,,43,201.8,South Region
+521,dulcia@gmail.com,Dulcia,Joscelin,Female,1/16/59,Birmingham,Alabama,4/15/18,61,63.4,South Region
+522,clerc@gmail.com,Clerc,Gresham,Male,1/13/64,Scranton,Pennsylvania,9/16/16,56,470,Northeast Region
+523,coraline@gmail.com,Coraline,Elbourne,Female,3/1/51,Indianapolis,Indiana,3/19/17,69,14,Midwest Region
+524,nanon@gmail.com,Nanon,Cadden,Female,5/28/58,Monticello,Minnesota,10/23/16,61,20,Midwest Region
+525,sherlocke@gmail.com,Sherlocke,Gertray,Male,4/27/90,Oklahoma City,Oklahoma,8/22/16,30,20,South Region
+526,parsifal@gmail.com,Parsifal,Roskam,Male,3/3/54,Salt Lake City,Utah,,66,122.4,West Region
+527,ed@gmail.com,Ed,Vivians,Male,12/15/61,Houston,Texas,1/3/18,58,181.5,South Region
+528,jerry@gmail.com,Jerry,Treher,Male,2/17/56,Oakland,California,,64,#N/A,West Region
+529,lettie@gmail.com,Lettie,Aleshkov,Female,2/23/56,Santa Barbara,California,,64,51.8,West Region
+530,jens@gmail.com,Jens,Laybourne,Male,8/21/85,Waco,Texas,,34,45,South Region
+531,winifield@gmail.com,Winifield,Justice,Male,7/21/73,Denver,Colorado,,46,408,West Region
+532,anneliese@gmail.com,Anneliese,Lamping,Female,9/23/56,Jeffersonville,Indiana,12/14/17,63,14.4,Midwest Region
+533,jaye@gmail.com,Jaye,Windibank,Male,3/1/69,Waco,Texas,2/14/18,51,36.2,South Region
+534,latrena@gmail.com,Latrena,Ellaman,Female,7/28/61,Minneapolis,Minnesota,11/17/16,58,16.8,Midwest Region
+535,marvin@gmail.com,Marvin,Le Ball,Male,9/13/53,Scottsdale,Arizona,12/25/17,66,111.05,West Region
+536,mychal@gmail.com,Mychal,Ambler,Male,7/10/72,New Orleans,Louisiana,12/2/17,47,920.4,South Region
+537,willetta@gmail.com,Willetta,Elcox,Female,2/7/77,Richmond,Virginia,6/23/17,43,129.45,South Region
+538,bartlet@gmail.com,Bartlet,Follows,Male,7/9/90,Cincinnati,Ohio,,29,212.3,Midwest Region
+539,thea@gmail.com,Thea,Burry,Female,6/26/57,Fort Worth,Texas,9/7/17,62,131.6,South Region
+540,asa@gmail.com,Asa,Rustich,Male,3/8/84,Saginaw,Michigan,,36,129.3,Midwest Region
+541,kimmie@gmail.com,Kimmie,Rubinovitch,Female,3/3/58,Monroe,Louisiana,,62,50,South Region
+542,prissie@gmail.com,Prissie,Braniff,Female,8/23/75,Atlanta,Georgia,,44,356,South Region
+543,wilton@gmail.com,Wilton,Hengoed,Male,2/6/90,Lincoln,Nebraska,,30,33.6,Midwest Region
+544,dorotea@gmail.com,Dorotea,Mengo,Female,10/29/74,Wichita Falls,Texas,8/25/16,45,70,South Region
+545,herb@gmail.com,Herb,Courage,Male,5/11/55,Grand Junction,Colorado,4/2/17,65,20,West Region
+546,kincaid@gmail.com,Kincaid,Moodey,Male,11/11/73,Tulsa,Oklahoma,,46,97.4,South Region
+547,sibeal@gmail.com,Sibeal,Ledgard,Female,6/10/67,Boston,Massachusetts,,52,87.4,Northeast Region
+548,myranda@gmail.com,Myranda,Hylands,Female,8/27/53,Philadelphia,Pennsylvania,6/11/17,66,55.3,Northeast Region
+549,arlyn@gmail.com,Arlyn,Scarratt,Female,9/26/54,Pittsburgh,Pennsylvania,1/15/18,65,15,Northeast Region
+550,felicity@gmail.com,Felicity,Borzoni,Female,7/5/66,Savannah,Georgia,12/5/16,53,93.8,South Region
+551,pierce@gmail.com,Pierce,Suddick,Male,7/30/73,Everett,Washington,,46,#N/A,West Region
+552,ysabel@gmail.com,Ysabel,O'Dreain,Female,5/12/81,Missoula,Montana,10/9/17,39,#N/A,West Region
+553,colman@gmail.com,Colman,Segar,Male,9/25/76,West Palm Beach,Florida,6/19/17,43,59.6,South Region
+554,beatrisa@gmail.com,Beatrisa,Denisevich,Female,11/30/86,Arlington,Virginia,6/12/17,33,400,South Region
+555,meara@gmail.com,Meara,Patesel,Female,9/5/56,Jeffersonville,Indiana,3/29/18,63,84.8,Midwest Region
+556,harcourt@gmail.com,Harcourt,Brosnan,Male,2/11/58,Knoxville,Tennessee,11/29/17,62,73.85,South Region
+557,chad@gmail.com,Chad,Claxton,Male,2/2/67,Salt Lake City,Utah,6/7/18,53,70,West Region
+558,palm@gmail.com,Palm,Carne,Male,10/16/62,Wilmington,Delaware,9/12/17,57,400,South Region
+559,hunfredo@gmail.com,Hunfredo,Beggan,Male,,Spokane,Washington,,,140,West Region
+560,cris@gmail.com,Cris,Keasy,Male,6/5/55,Irving,Texas,7/19/18,64,201.7,South Region
+561,sly@gmail.com,Sly,Bankhurst,Male,8/6/88,New York City,New York,,31,400,Northeast Region
+562,hussein@gmail.com,Hussein,Lemme,Male,12/14/87,Des Moines,Iowa,6/8/18,32,8.65,Midwest Region
+563,mindy@gmail.com,Mindy,Seifenmacher,Female,9/18/84,Augusta,Georgia,7/17/18,35,4.3,South Region
+564,quincy@gmail.com,Quincy,Artist,Male,6/7/73,Meridian,Mississippi,,46,462.3,South Region
+565,vinny@gmail.com,Vinny,Peacham,Male,6/2/61,Columbus,Ohio,4/14/18,58,70,Midwest Region
+566,rufe@gmail.com,Rufe,Flisher,Male,7/14/85,Cincinnati,Ohio,8/20/16,34,#N/A,Midwest Region
+567,sheeree@gmail.com,Sheeree,Rome,Female,,Kansas City,Missouri,3/28/18,,97.9,Midwest Region
+568,lise@gmail.com,Lise,Feldman,Female,9/30/56,Honolulu,Hawaii,6/7/18,63,456.3,West Region
+569,kass@gmail.com,Kass,Crowley,Female,6/29/65,Santa Barbara,California,,54,#N/A,West Region
+570,kelsey@gmail.com,Kelsey,Halbord,Female,1/12/52,Huntsville,Alabama,9/15/16,68,120,South Region
+571,antonietta@gmail.com,Antonietta,Ewbanke,Female,4/15/69,Oakland,California,1/12/18,51,909,West Region
+572,anne@gmail.com,Anne,Fremantle,Female,6/14/85,Miami,Florida,9/17/16,34,470,South Region
+573,raoul@gmail.com,Raoul,Norgan,Male,4/18/74,Suffolk,Virginia,,46,55,South Region
+574,rudyard@gmail.com,Rudyard,Nurse,Male,1/9/83,Albany,New York,12/28/17,37,450.4,Northeast Region
+575,my@gmail.com,My,Snewin,Male,7/20/82,Philadelphia,Pennsylvania,2/13/17,37,129.2,Northeast Region
+576,ashleigh@gmail.com,Ashleigh,Domoney,Female,7/5/58,Dayton,Ohio,8/24/17,61,119.1,Midwest Region
+577,towny@gmail.com,Towny,Scarrott,Male,8/1/88,El Paso,Texas,,31,#N/A,South Region
+578,dosi@gmail.com,Dosi,Buckeridge,Female,4/18/90,Saint Louis,Missouri,,30,94,Midwest Region
+579,jerrome@gmail.com,Jerrome,Tuffell,Male,12/7/65,Port Washington,New York,7/8/18,54,70,Northeast Region
+580,rochella@gmail.com,Rochella,Conibere,Female,3/31/78,El Paso,Texas,11/1/17,42,120,South Region
+581,goober@gmail.com,Goober,Idiens,Male,9/8/88,New York City,New York,12/25/16,31,3.85,Northeast Region
+582,jennifer@gmail.com,Jennifer,Pattie,Female,1/18/72,Albany,New York,,48,98.2,Northeast Region
+583,emmett@gmail.com,Emmett,Tuminini,Male,12/30/55,New Orleans,Louisiana,4/13/17,64,73.75,South Region
+584,marrilee@gmail.com,Marrilee,Beavan,Female,6/22/78,Vero Beach,Florida,2/2/17,41,109.5,South Region
+585,abbey@gmail.com,Abbey,Cairns,Male,7/25/70,Honolulu,Hawaii,8/1/17,49,122.5,West Region
+586,leda@gmail.com,Leda,Scarbarrow,Female,11/16/71,San Diego,California,,48,90,West Region
+587,aubrey@gmail.com,Aubrey,Grundey,Female,10/21/58,Palmdale,California,,61,#N/A,West Region
+588,rustie@gmail.com,Rustie,Davydzenko,Male,3/23/83,Greeley,Colorado,,37,3.75,West Region
+589,frederique@gmail.com,Frederique,Gribbins,Female,12/19/56,Silver Spring,Maryland,,63,453,South Region
+590,lorna@gmail.com,Lorna,Burfoot,Female,7/26/70,Alpharetta,Georgia,1/7/18,49,70,South Region
+591,solly@gmail.com,Solly,Philipeau,Male,,Evansville,Indiana,5/4/17,,102.5,Midwest Region
+592,lem@gmail.com,Lem,Scardifield,Male,4/27/60,Phoenix,Arizona,6/3/18,60,104.2,West Region
+593,rutledge@gmail.com,Rutledge,O'Heyne,Male,11/17/86,Omaha,Nebraska,,33,140.8,Midwest Region
+594,phip@gmail.com,Phip,Jeffryes,Male,3/30/52,Lexington,Kentucky,4/21/17,68,488.7,South Region
+595,garv@gmail.com,Garv,Austing,Male,1/12/70,Grand Junction,Colorado,1/16/17,50,104.4,West Region
+596,filide@gmail.com,Filide,Tant,Female,10/29/59,Kansas City,Kansas,10/1/16,60,#N/A,Midwest Region
+597,sophie@gmail.com,Sophie,Atwell,Female,7/31/52,Charlotte,North Carolina,6/27/17,67,15.4,South Region
+598,skip@gmail.com,Skip,Peasegood,Male,8/28/76,Memphis,Tennessee,2/17/17,43,490,South Region
+599,avivah@gmail.com,Avivah,Posen,Female,1/24/66,New Brunswick,New Jersey,6/8/17,54,3.85,Northeast Region
+600,sigrid@gmail.com,Sigrid,Launchbury,Female,11/27/60,Clearwater,Florida,,59,91,South Region
+601,etan@gmail.com,Etan,Stood,Male,2/12/56,El Paso,Texas,6/12/18,64,267.8,South Region
+602,eli@gmail.com,Eli,Swedeland,Male,7/19/82,Birmingham,Alabama,5/29/17,37,5,South Region
+603,constancy@gmail.com,Constancy,Bresnen,Female,11/2/71,Fairfax,Virginia,12/18/16,48,20,South Region
+604,konstance@gmail.com,Konstance,Boyles,Female,,Bryan,Texas,5/11/17,,506.3,South Region
+605,ervin@gmail.com,Ervin,Simecek,Male,8/11/69,Tucson,Arizona,1/15/17,50,72.4,West Region
+606,kipp@gmail.com,Kipp,Ratlee,Male,3/2/85,Washington,District of Columbia,8/1/17,35,49,South Region
+607,nanette@gmail.com,Nanette,Billitteri,Female,,Vero Beach,Florida,4/16/18,,59.5,South Region
+608,merwin@gmail.com,Merwin,Nicholas,Male,5/9/81,Philadelphia,Pennsylvania,,39,129.8,Northeast Region
+609,penni@gmail.com,Penni,Hands,Female,,Stamford,Connecticut,,,296,Northeast Region
+610,deane@gmail.com,Deane,Jerram,Female,3/23/64,Fort Wayne,Indiana,8/4/17,56,131.2,Midwest Region
+611,mellisa@gmail.com,Mellisa,Menichi,Female,12/11/54,Orange,California,6/21/18,65,54.6,West Region
+612,briny@gmail.com,Briny,Richen,Female,4/13/72,Everett,Washington,7/6/18,48,#N/A,West Region
+613,eunice@gmail.com,Eunice,Josey,Female,10/19/52,Newark,New Jersey,8/13/18,67,5,Northeast Region
+614,lorettalorna@gmail.com,Lorettalorna,Adelberg,Female,1/27/85,Abilene,Texas,8/10/18,35,35.2,South Region
+615,robby@gmail.com,Robby,Brazener,Male,6/17/58,Dallas,Texas,9/26/17,61,170.1,South Region
+616,ambros@gmail.com,Ambros,Rathjen,Male,,Boca Raton,Florida,,,59.5,South Region
+617,nadya@gmail.com,Nadya,Felgat,Female,12/13/85,San Francisco,California,,34,219,West Region
+618,nissie@gmail.com,Nissie,Weddeburn,Female,4/5/65,Englewood,Colorado,7/9/17,55,22.8,West Region
+619,paulie@gmail.com,Paulie,Figg,Male,6/9/78,El Paso,Texas,6/8/17,41,#N/A,South Region
+620,kally@gmail.com,Kally,Moncreif,Female,1/25/56,Littleton,Colorado,,64,95,West Region
+621,hirsch@gmail.com,Hirsch,Dedney,Male,1/14/82,Lansing,Michigan,5/26/17,38,#N/A,Midwest Region
+622,geordie@gmail.com,Geordie,Bassingden,Male,12/21/50,Lafayette,Indiana,,69,53.7,Midwest Region
+623,brendon@gmail.com,Brendon,Chrisp,Male,10/5/74,Indianapolis,Indiana,10/10/16,45,442,Midwest Region
+624,brooks@gmail.com,Brooks,Duchesne,Male,7/15/70,Dallas,Texas,,49,307.95,South Region
+625,maribelle@gmail.com,Maribelle,Huncoot,Female,6/24/86,Oklahoma City,Oklahoma,6/25/17,33,70,South Region
+626,dolf@gmail.com,Dolf,Denley,Male,4/7/52,Boston,Massachusetts,,68,575.25,Northeast Region
+627,amelia@gmail.com,Amelia,Southers,Female,11/28/89,Humble,Texas,,30,4.25,South Region
+628,theodora@gmail.com,Theodora,Kubacki,Female,10/29/80,Fort Pierce,Florida,4/2/18,39,#N/A,South Region
+629,robinet@gmail.com,Robinet,Stone,Female,10/19/54,Washington,District of Columbia,2/25/17,65,397,South Region
+630,uta@gmail.com,Uta,Augustine,Female,,Miami,Florida,,,#N/A,South Region
+631,florenza@gmail.com,Florenza,Strangman,Female,11/8/59,Savannah,Georgia,6/7/18,60,72,South Region
+632,dene@gmail.com,Dene,Jelliman,Male,7/26/81,Long Beach,California,10/18/17,38,197.4,West Region
+633,marcile@gmail.com,Marcile,Portress,Female,4/28/75,El Paso,Texas,,45,44.5,South Region
+634,benedetta@gmail.com,Benedetta,Kuzma,Female,8/13/78,Detroit,Michigan,8/14/17,41,400,Midwest Region
+635,maximilian@gmail.com,Maximilian,Aronstein,Male,3/8/86,El Paso,Texas,6/1/17,34,117.2,South Region
+636,courtney@gmail.com,Courtney,Isles,Female,4/19/70,San Francisco,California,5/2/18,50,119.6,West Region
+637,cayla@gmail.com,Cayla,Laidler,Female,9/30/83,Plano,Texas,3/8/18,36,64.15,South Region
+638,brandon@gmail.com,Brandon,Marple,Male,2/2/65,Austin,Texas,5/7/18,55,80,South Region
+639,glen@gmail.com,Glen,Le Batteur,Female,7/10/66,Washington,District of Columbia,6/25/18,53,#N/A,South Region
+640,tannie@gmail.com,Tannie,Meeks,Male,9/4/58,Winston Salem,North Carolina,1/13/18,61,85,South Region
+641,raymond@gmail.com,Raymond,Leile,Male,12/14/57,Memphis,Tennessee,5/26/17,62,424.8,South Region
+642,jerrie@gmail.com,Jerrie,Overshott,Male,9/17/50,Duluth,Minnesota,1/18/17,69,20,Midwest Region
+643,giavani@gmail.com,Giavani,Stock,Male,6/27/90,Houston,Texas,,29,70,South Region
+644,madge@gmail.com,Madge,Kelloch,Female,7/5/62,Vero Beach,Florida,3/30/18,57,14,South Region
+645,shae@gmail.com,Shae,Hillam,Male,1/8/53,Louisville,Kentucky,,67,5,South Region
+646,cyndy@gmail.com,Cyndy,Dronsfield,Female,7/14/88,Fresno,California,4/26/18,31,70,West Region
+647,scarlet@gmail.com,Scarlet,Dabbs,Female,8/10/73,Fort Worth,Texas,9/10/16,46,87,South Region
+648,amitie@gmail.com,Amitie,Rodmell,Female,8/26/64,San Jose,California,,55,136,West Region
+649,felix@gmail.com,Felix,Izachik,Male,4/20/73,Tampa,Florida,12/4/17,47,85.8,South Region
+650,maren@gmail.com,Maren,Fumagalli,Female,2/10/65,Gainesville,Georgia,7/31/17,55,400,South Region
+651,blisse@gmail.com,Blisse,Ollerton,Female,11/8/59,Orlando,Florida,9/17/16,60,135.2,South Region
+652,harp@gmail.com,Harp,Wein,Male,8/23/87,Miami,Florida,11/7/17,32,154.2,South Region
+653,si@gmail.com,Si,Clement,Male,,Burbank,California,10/1/16,,58.4,West Region
+654,siana@gmail.com,Siana,Kenna,Female,12/15/80,Washington,District of Columbia,1/14/17,39,49,South Region
+655,walsh@gmail.com,Walsh,Coomber,Male,4/26/66,Englewood,Colorado,11/7/16,54,17,West Region
+656,raleigh@gmail.com,Raleigh,Sharrem,Male,6/30/87,York,Pennsylvania,3/21/18,32,84.8,Northeast Region
+657,avril@gmail.com,Avril,Iannini,Female,11/11/78,Aurora,Colorado,5/20/18,41,164.35,West Region
+658,bord@gmail.com,Bord,Dengel,Male,10/5/86,Charlotte,North Carolina,1/12/18,33,801.3,South Region
+659,nadine@gmail.com,Nadine,Goshawke,Female,8/11/88,Hampton,Virginia,,31,50,South Region
+660,nertie@gmail.com,Nertie,Garthland,Female,12/11/75,Columbus,Ohio,11/22/17,44,70,Midwest Region
+661,willi@gmail.com,Willi,Olanda,Female,6/11/53,Colorado Springs,Colorado,11/27/16,66,352,West Region
+662,pip@gmail.com,Pip,Dufaire,Male,,Houston,Texas,2/15/18,,440,South Region
+663,libby@gmail.com,Libby,Wardrope,Female,4/18/78,Saint Louis,Missouri,4/23/18,42,149.8,Midwest Region
+664,brook@gmail.com,Brook,Jorge,Male,3/20/51,Las Vegas,Nevada,3/3/17,69,116.5,West Region
+665,aluino@gmail.com,Aluino,Legge,Male,4/20/73,Dallas,Texas,,47,16.6,South Region
+666,hobard@gmail.com,Hobard,Kelly,Male,11/30/63,Reading,Pennsylvania,9/8/17,56,400,Northeast Region
+667,belita@gmail.com,Belita,Hembry,Female,1/17/67,Houston,Texas,,53,70,South Region
+668,rickard@gmail.com,Rickard,Bordes,Male,6/8/68,Tampa,Florida,,51,#N/A,South Region
+669,stanwood@gmail.com,Stanwood,McChruiter,Male,8/11/87,El Paso,Texas,5/30/18,32,56,South Region
+670,cooper@gmail.com,Cooper,McKellar,Male,5/5/56,West Palm Beach,Florida,6/20/17,64,189.4,South Region
+671,lay@gmail.com,Lay,Craw,Male,1/18/55,Lexington,Kentucky,8/29/16,65,364.6,South Region
+672,duffy@gmail.com,Duffy,Crowe,Male,2/19/80,Hartford,Connecticut,,40,5,Northeast Region
+673,hershel@gmail.com,Hershel,Cudby,Male,10/15/71,Ann Arbor,Michigan,,48,790.8,Midwest Region
+674,corney@gmail.com,Corney,Cuthbertson,Male,,Bakersfield,California,6/11/18,,162.5,West Region
+675,fionnula@gmail.com,Fionnula,Kassel,Female,3/16/88,Saint Louis,Missouri,12/31/16,32,#N/A,Midwest Region
+676,amalia@gmail.com,Amalia,Wadelin,Female,2/3/51,Tulsa,Oklahoma,7/29/17,69,25,South Region
+677,waylin@gmail.com,Waylin,Tassell,Male,5/27/84,Lafayette,Indiana,,35,348,Midwest Region
+678,brandise@gmail.com,Brandise,Bambrugh,Female,8/17/66,Hialeah,Florida,1/13/18,53,5,South Region
+679,vin@gmail.com,Vin,Wyke,Female,1/18/66,Cleveland,Ohio,11/3/16,54,100,Midwest Region
+680,mel@gmail.com,Mel,Deverson,Female,10/3/85,Norfolk,Virginia,5/18/17,34,16,South Region
+681,helenka@gmail.com,Helenka,Coole,Female,2/18/70,Boise,Idaho,12/1/16,50,504.6,West Region
+682,tildie@gmail.com,Tildie,Ellul,Female,4/12/70,Philadelphia,Pennsylvania,12/23/16,50,390.4,Northeast Region
+683,sunny@gmail.com,Sunny,Dickon,Male,9/4/62,Irvine,California,6/15/17,57,5,West Region
+684,annie@gmail.com,Annie,Fearney,Female,6/9/67,Wichita,Kansas,1/6/18,52,#N/A,Midwest Region
+685,shirl@gmail.com,Shirl,Baytrop,Female,7/29/76,Saint Petersburg,Florida,5/7/18,43,123.9,South Region
+686,giralda@gmail.com,Giralda,Venard,Female,11/15/77,Bryan,Texas,8/19/17,42,25,South Region
+687,gay@gmail.com,Gay,Smeeth,Female,10/15/85,Columbia,South Carolina,,34,70,South Region
+688,brannon@gmail.com,Brannon,Putson,Male,3/20/56,Iowa City,Iowa,7/22/18,64,494.2,Midwest Region
+689,adamo@gmail.com,Adamo,Thowless,Male,3/13/54,Watertown,Massachusetts,,66,80.9,Northeast Region
+690,marsha@gmail.com,Marsha,Mitham,Female,7/5/56,Oklahoma City,Oklahoma,,63,420,South Region
+691,andonis@gmail.com,Andonis,Azam,Male,7/20/87,New Orleans,Louisiana,,32,478.8,South Region
+692,colly@gmail.com,Colly,Patrono,Female,12/19/86,Huntsville,Alabama,,33,35,South Region
+693,ethe@gmail.com,Ethe,Belamy,Male,5/8/86,Indianapolis,Indiana,1/1/17,34,260,Midwest Region
+694,allard@gmail.com,Allard,Fayer,Male,5/5/57,Virginia Beach,Virginia,6/30/18,63,65.85,South Region
+695,lorianna@gmail.com,Lorianna,Blumson,Female,1/11/64,Tucson,Arizona,5/9/18,56,142,West Region
+696,vernon@gmail.com,Vernon,Bassford,Male,4/18/63,Valdosta,Georgia,,57,#N/A,South Region
+697,margalit@gmail.com,Margalit,Burnsides,Female,,Buffalo,New York,,,173.6,Northeast Region
+698,kaja@gmail.com,Kaja,Klaassens,Female,5/28/66,Chicago,Illinois,7/19/18,53,#N/A,Midwest Region
+699,jaime@gmail.com,Jaime,Oliva,Male,12/15/68,Mount Vernon,New York,,51,154.7,Northeast Region
+700,krissie@gmail.com,Krissie,Sabatier,Female,7/10/87,Kissimmee,Florida,,32,862.8,South Region
+701,josie@gmail.com,Josie,Mohan,Female,12/14/58,Charlotte,North Carolina,2/14/18,61,20,South Region
+702,dulsea@gmail.com,Dulsea,Seson,Female,8/18/87,New York City,New York,,32,396.7,Northeast Region
+703,mead@gmail.com,Mead,Standley,Female,12/12/86,Athens,Georgia,4/16/18,33,5,South Region
+704,sonja@gmail.com,Sonja,Fysh,Female,1/16/58,Sacramento,California,12/12/16,62,610.6,West Region
+705,hermione@gmail.com,Hermione,Chazotte,Female,11/22/72,Fargo,North Dakota,4/28/18,47,5,Midwest Region
+706,fran@gmail.com,Fran,Orpen,Female,9/8/89,Sioux Falls,South Dakota,,30,107.8,Midwest Region
+707,shani@gmail.com,Shani,Finch,Female,9/11/71,Beaumont,Texas,,48,49.7,South Region
+708,tamarra@gmail.com,Tamarra,Shah,Female,,Boston,Massachusetts,,,378.4,Northeast Region
+709,katine@gmail.com,Katine,Rothert,Female,3/20/88,Denver,Colorado,,32,578.6,West Region
+710,juliette@gmail.com,Juliette,Morrilly,Female,8/19/71,Dallas,Texas,12/5/17,48,16.2,South Region
+711,ame@gmail.com,Ame,Wadham,Female,,Allentown,Pennsylvania,,,16.6,Northeast Region
+712,gaby@gmail.com,Gaby,Gillions,Female,12/28/58,Birmingham,Alabama,,61,404,South Region
+713,armstrong@gmail.com,Armstrong,Sixsmith,Male,5/17/65,Albany,New York,11/28/17,55,135.6,Northeast Region
+714,winnie@gmail.com,Winnie,Caltera,Male,2/17/64,Charlotte,North Carolina,7/24/17,56,18,South Region
+715,ewell@gmail.com,Ewell,Vedishchev,Male,6/8/62,Montgomery,Alabama,11/25/16,57,80,South Region
+716,laureen@gmail.com,Laureen,Marchant,Female,6/6/79,Flint,Michigan,9/21/17,40,20,Midwest Region
+717,evaleen@gmail.com,Evaleen,Angric,Female,12/3/59,Redwood City,California,,60,50,West Region
+718,robbert@gmail.com,Robbert,Hebden,Male,11/7/56,Bozeman,Montana,2/3/18,63,139,West Region
+719,marianna@gmail.com,Marianna,Rosina,Female,1/31/68,North Little Rock,Arkansas,5/12/18,52,#N/A,South Region
+720,gusta@gmail.com,Gusta,Ide,Female,1/10/87,Erie,Pennsylvania,,33,50,Northeast Region
+721,rabbi@gmail.com,Rabbi,Shayes,Male,3/20/63,Indianapolis,Indiana,,57,90,Midwest Region
+722,freemon@gmail.com,Freemon,Haffenden,Male,,Anaheim,California,10/27/17,,55.3,West Region
+723,marya@gmail.com,Marya,Abramowitz,Female,12/5/52,Anchorage,Alaska,6/24/17,67,87.8,West Region
+724,marrilee@gmail.com,Marrilee,Lubman,Female,4/14/57,Irvine,California,9/3/17,63,#N/A,West Region
+725,tilda@gmail.com,Tilda,Irnis,Female,4/12/61,Frankfort,Kentucky,9/13/17,59,495.2,South Region
+726,lockwood@gmail.com,Lockwood,Inkles,Male,3/21/84,Warren,Ohio,,36,88,Midwest Region
+727,giustina@gmail.com,Giustina,Piwell,Female,4/12/68,Bradenton,Florida,9/22/17,52,151.6,South Region
+728,izaak@gmail.com,Izaak,Hullock,Male,11/17/58,San Francisco,California,2/18/17,61,20,West Region
+729,jasmine@gmail.com,Jasmine,Neve,Female,4/11/60,Jamaica,New York,8/8/17,60,53.9,Northeast Region
+730,tremain@gmail.com,Tremain,Colston,Male,7/4/53,Dallas,Texas,3/13/17,66,#N/A,South Region
+731,benni@gmail.com,Benni,Ambrogetti,Female,7/16/66,Henderson,Nevada,,53,#N/A,West Region
+732,billy@gmail.com,Billy,Cattel,Female,7/10/63,Washington,District of Columbia,8/8/18,56,496.2,South Region
+733,jacques@gmail.com,Jacques,Pyzer,Male,5/5/77,Atlanta,Georgia,,43,52.5,South Region
+734,hilda@gmail.com,Hilda,Hansel,Female,7/22/52,San Francisco,California,11/28/16,67,460,West Region
+735,odell@gmail.com,Odell,Fonzone,Male,8/28/52,Washington,District of Columbia,2/3/17,67,#N/A,South Region
+736,neils@gmail.com,Neils,Marciek,Male,1/12/70,Seattle,Washington,,50,541.1,West Region
+737,ruttger@gmail.com,Ruttger,Hicklingbottom,Male,2/17/66,Tampa,Florida,,54,76.8,South Region
+738,eal@gmail.com,Eal,Beverage,Male,6/12/54,Paterson,New Jersey,7/15/18,65,80,Northeast Region
+739,demeter@gmail.com,Demeter,Seiler,Female,3/14/70,Madison,Wisconsin,1/23/18,50,366,Midwest Region
+740,othilie@gmail.com,Othilie,Foulgham,Female,2/23/51,Akron,Ohio,5/26/18,69,#N/A,Midwest Region
+741,velvet@gmail.com,Velvet,Klulisek,Female,9/20/67,Portland,Oregon,3/8/18,52,308,West Region
+742,alric@gmail.com,Alric,Gouda,Male,,Miami,Florida,4/3/18,,56,South Region
+743,bing@gmail.com,Bing,Janczyk,Male,12/11/52,Laredo,Texas,,67,87.6,South Region
+744,ezri@gmail.com,Ezri,Jancar,Male,9/11/87,Pittsburgh,Pennsylvania,,32,383.4,Northeast Region
+745,penn@gmail.com,Penn,Ellcome,Male,3/18/51,Fort Worth,Texas,,69,55.3,South Region
+746,jordain@gmail.com,Jordain,Bellham,Female,5/27/75,Camden,New Jersey,,44,210,Northeast Region
+747,helen-elizabeth@gmail.com,Helen-elizabeth,Parriss,Female,,Austin,Texas,6/4/17,,#N/A,South Region
+748,trueman@gmail.com,Trueman,Wilse,Male,3/25/70,San Jose,California,10/29/17,50,#N/A,West Region
+749,guntar@gmail.com,Guntar,Gonoude,Male,10/21/55,Oklahoma City,Oklahoma,1/18/18,64,90,South Region
+750,dannel@gmail.com,Dannel,Stocking,Male,9/12/81,Bellevue,Washington,,38,8.65,West Region
+751,elly@gmail.com,Elly,Kreber,Female,3/22/66,Toledo,Ohio,7/5/17,54,66.6,Midwest Region
+752,elliott@gmail.com,Elliott,Trathen,Male,7/5/84,Santa Rosa,California,,35,63.5,West Region
+753,sandor@gmail.com,Sandor,Kelwick,Male,4/6/74,Mobile,Alabama,6/23/18,46,#N/A,South Region
+754,nolie@gmail.com,Nolie,Mounter,Female,10/16/61,Everett,Washington,2/3/17,58,800,West Region
+755,aubrie@gmail.com,Aubrie,Sidney,Female,9/15/82,Las Vegas,Nevada,10/21/16,37,20,West Region
+756,carling@gmail.com,Carling,Kid,Male,8/10/87,Bridgeport,Connecticut,,32,#N/A,Northeast Region
+757,lesli@gmail.com,Lesli,De Stoop,Female,5/10/71,Baton Rouge,Louisiana,7/15/18,49,70.4,South Region
+758,merrill@gmail.com,Merrill,Jillard,Male,8/17/83,Cincinnati,Ohio,6/28/18,36,80,Midwest Region
+759,clarance@gmail.com,Clarance,Hofner,Male,9/10/57,Des Moines,Iowa,11/30/16,62,200.75,Midwest Region
+760,flss@gmail.com,Flss,De Blase,Female,8/10/77,Orlando,Florida,3/12/17,42,3.6,South Region
+761,aldon@gmail.com,Aldon,Halwill,Male,7/17/58,Fredericksburg,Virginia,5/24/17,61,53.7,South Region
+762,clem@gmail.com,Clem,Dibdin,Female,6/9/52,Cincinnati,Ohio,7/18/17,67,67.2,Midwest Region
+763,welsh@gmail.com,Welsh,Confait,Male,8/8/65,Mobile,Alabama,12/3/17,54,70,South Region
+764,nicoline@gmail.com,Nicoline,Rosso,Female,12/6/58,Hattiesburg,Mississippi,5/26/18,61,50,South Region
+765,nico@gmail.com,Nico,Raise,Male,11/24/78,Orlando,Florida,11/13/17,41,444,South Region
+766,audy@gmail.com,Audy,Manjin,Female,4/4/84,Sacramento,California,11/17/17,36,#N/A,West Region
+767,saree@gmail.com,Saree,Horry,Female,12/14/69,Orlando,Florida,12/9/17,50,4,South Region
+768,ranique@gmail.com,Ranique,Foro,Female,3/19/60,Raleigh,North Carolina,12/25/17,60,#N/A,South Region
+769,demott@gmail.com,Demott,Hazard,Male,1/11/65,Metairie,Louisiana,,55,405,South Region
+770,dulcinea@gmail.com,Dulcinea,Worcester,Female,12/21/55,Washington,District of Columbia,,64,#N/A,South Region
+771,marion@gmail.com,Marion,Malone,Female,7/2/78,Edmond,Oklahoma,,41,14.2,South Region
+772,basil@gmail.com,Basil,Sotworth,Male,12/8/85,Evansville,Indiana,12/16/16,34,164.9,Midwest Region
+773,amby@gmail.com,Amby,Riseborough,Male,1/7/74,Brooklyn,New York,,46,80,Northeast Region
+774,reinhard@gmail.com,Reinhard,Farnall,Male,5/6/83,Trenton,New Jersey,,37,470,Northeast Region
+775,wesley@gmail.com,Wesley,Hoggin,Male,2/5/67,New Haven,Connecticut,6/1/18,53,90,Northeast Region
+776,nance@gmail.com,Nance,Harback,Female,9/14/70,Sacramento,California,12/29/17,49,19.2,West Region
+777,jerrome@gmail.com,Jerrome,Jessard,Male,9/25/66,Memphis,Tennessee,12/6/16,53,454.6,South Region
+778,betty@gmail.com,Betty,Olkowicz,Female,8/6/88,Tucson,Arizona,5/1/18,31,60.9,West Region
+779,trace@gmail.com,Trace,Carden,Male,12/16/61,Jackson,Mississippi,,58,134.9,South Region
+780,guinevere@gmail.com,Guinevere,Molfino,Female,4/6/80,Lubbock,Texas,10/23/16,40,520,South Region
+781,nelle@gmail.com,Nelle,Zold,Female,12/11/54,Cincinnati,Ohio,1/21/17,65,17.4,Midwest Region
+782,giovanni@gmail.com,Giovanni,Graalmans,Male,11/27/68,Kansas City,Missouri,7/2/18,51,596.2,Midwest Region
+783,hunt@gmail.com,Hunt,Iacobacci,Male,1/11/88,Prescott,Arizona,5/3/18,32,#N/A,West Region
+784,georgeta@gmail.com,Georgeta,Whitworth,Female,6/7/83,Fort Worth,Texas,5/13/18,36,316.6,South Region
+785,cosetta@gmail.com,Cosetta,Bew,Female,,Lexington,Kentucky,5/6/17,,500,South Region
+786,misty@gmail.com,Misty,Lesek,Female,10/9/82,Tuscaloosa,Alabama,8/4/18,37,50,South Region
+787,costanza@gmail.com,Costanza,Egell,Female,6/16/85,Washington,District of Columbia,2/14/17,34,151.8,South Region
+788,stinky@gmail.com,Stinky,Tourne,Male,7/17/61,Des Moines,Iowa,2/2/18,58,800,Midwest Region
+789,maure@gmail.com,Maure,Falconer,Female,6/8/67,Spring,Texas,2/12/18,52,#N/A,South Region
+790,britta@gmail.com,Britta,O'Sirin,Female,4/7/74,Orlando,Florida,11/20/16,46,3.5,South Region
+791,andreas@gmail.com,Andreas,Batthew,Male,4/11/67,Washington,District of Columbia,5/27/17,53,3.9,South Region
+792,edsel@gmail.com,Edsel,Girt,Male,6/14/59,Hollywood,Florida,9/16/17,60,80,South Region
+793,horst@gmail.com,Horst,Carlozzi,Male,9/9/72,Montgomery,Alabama,,47,126,South Region
+794,kerry@gmail.com,Kerry,Muxworthy,Female,3/4/65,Kansas City,Kansas,,55,80,Midwest Region
+795,cosette@gmail.com,Cosette,Basili,Female,10/15/89,Miami,Florida,,30,150,South Region
+796,tobey@gmail.com,Tobey,Cursons,Female,6/18/70,Dallas,Texas,,49,#N/A,South Region
+797,spike@gmail.com,Spike,Salkild,Male,6/27/59,Washington,District of Columbia,1/8/18,60,5,South Region
+798,shae@gmail.com,Shae,Pring,Male,12/30/59,Pompano Beach,Florida,5/8/17,60,300,South Region
+799,jan@gmail.com,Jan,Rosenhaupt,Female,10/21/50,Tempe,Arizona,9/3/17,69,53.2,West Region
+800,gusti@gmail.com,Gusti,Wissby,Female,1/4/89,Shawnee Mission,Kansas,,31,924,Midwest Region
+801,juan@gmail.com,Juan,Flag,Male,11/13/62,Peoria,Illinois,,57,#N/A,Midwest Region
+802,tadio@gmail.com,Tadio,Johnstone,Male,6/28/82,Amarillo,Texas,7/25/17,37,75,South Region
+803,oriana@gmail.com,Oriana,Haythorne,Female,8/5/69,Atlanta,Georgia,9/7/16,50,888,South Region
+804,eveline@gmail.com,Eveline,Meineken,Female,6/13/64,Wichita,Kansas,,55,125,Midwest Region
+805,travers@gmail.com,Travers,Laurenzi,Male,9/14/72,Brooklyn,New York,,47,45,Northeast Region
+806,hashim@gmail.com,Hashim,Finlason,Male,1/31/90,San Diego,California,3/9/17,30,440,West Region
+807,ludovico@gmail.com,Ludovico,Cheng,Male,6/4/87,Augusta,Georgia,1/7/18,32,206.7,South Region
+808,isaiah@gmail.com,Isaiah,Spratley,Male,10/21/83,Columbus,Georgia,6/30/17,36,386,South Region
+809,peggy@gmail.com,Peggy,Girardetti,Female,9/5/57,Charlotte,North Carolina,,62,400,South Region
+810,serge@gmail.com,Serge,Waryk,Male,5/28/55,Boise,Idaho,11/24/17,64,150,West Region
+811,lara@gmail.com,Lara,Strathearn,Female,8/16/60,Spring,Texas,10/6/17,59,123,South Region
+812,kaitlin@gmail.com,Kaitlin,Dockwra,Female,9/13/76,Atlanta,Georgia,,43,29.2,South Region
+813,marcille@gmail.com,Marcille,Ainsbury,Female,7/17/66,Tacoma,Washington,,53,#N/A,West Region
+814,gisela@gmail.com,Gisela,Heckle,Female,6/22/84,San Jose,California,3/20/17,35,162.2,West Region
+815,lorrayne@gmail.com,Lorrayne,Lipscombe,Female,4/19/83,Columbus,Ohio,,37,#N/A,Midwest Region
+816,valentine@gmail.com,Valentine,Stickells,Female,12/29/52,El Paso,Texas,,67,24.4,South Region
+817,tiebout@gmail.com,Tiebout,Stoakley,Male,9/16/74,Birmingham,Alabama,3/4/18,45,34.6,South Region
+818,owen@gmail.com,Owen,Larvent,Male,10/24/80,Albany,New York,3/5/17,39,70,Northeast Region
+819,laurie@gmail.com,Laurie,Devenny,Male,4/7/82,Anniston,Alabama,5/8/18,38,#N/A,South Region
+820,tod@gmail.com,Tod,Rawlings,Male,3/10/66,Colorado Springs,Colorado,4/23/17,54,366.8,West Region
+821,whittaker@gmail.com,Whittaker,Aysik,Male,8/26/83,Raleigh,North Carolina,,36,170.4,South Region
+822,gloriana@gmail.com,Gloriana,Winscom,Female,7/21/70,Buffalo,New York,8/26/16,49,100,Northeast Region
+823,mel@gmail.com,Mel,MacDunlevy,Male,3/11/81,Gastonia,North Carolina,1/30/17,39,15.2,South Region
+824,lynnet@gmail.com,Lynnet,Havoc,Female,8/22/86,Nashville,Tennessee,,33,117.1,South Region
+825,gus@gmail.com,Gus,Boardman,Male,4/9/62,Kansas City,Missouri,9/16/17,58,53.75,Midwest Region
+826,deerdre@gmail.com,Deerdre,Sheron,Female,9/29/72,Dayton,Ohio,3/23/18,47,131,Midwest Region
+827,jecho@gmail.com,Jecho,Lehrle,Male,10/20/65,Montgomery,Alabama,10/14/17,54,101.6,South Region
+828,kelbee@gmail.com,Kelbee,Mingay,Male,3/30/83,Sioux Falls,South Dakota,,37,5,Midwest Region
+829,maddie@gmail.com,Maddie,Finnigan,Female,6/6/81,Syracuse,New York,6/5/18,38,16.4,Northeast Region
+830,kristos@gmail.com,Kristos,Joicey,Male,9/18/60,Anaheim,California,,59,128,West Region
+831,jsandye@gmail.com,Jsandye,Lord,Female,9/22/52,Bradenton,Florida,9/28/17,67,519.1,South Region
+832,marion@gmail.com,Marion,Pavitt,Male,10/15/64,Miami,Florida,,55,40.5,South Region
+833,ennis@gmail.com,Ennis,Dougharty,Male,11/30/70,Charleston,West Virginia,7/30/17,49,58.8,South Region
+834,carie@gmail.com,Carie,Clineck,Female,3/11/79,Decatur,Georgia,4/1/18,41,#N/A,South Region
+835,gayle@gmail.com,Gayle,Stainton,Female,5/18/80,Little Rock,Arkansas,,39,#N/A,South Region
+836,berrie@gmail.com,Berrie,Dulanty,Female,3/10/83,Philadelphia,Pennsylvania,,37,186.95,Northeast Region
+837,kellsie@gmail.com,Kellsie,Child,Female,,Houston,Texas,,,#N/A,South Region
+838,magdaia@gmail.com,Magdaia,Thurby,Female,4/2/74,Metairie,Louisiana,,46,340.8,South Region
+839,lanie@gmail.com,Lanie,Morphew,Female,6/21/82,Silver Spring,Maryland,,37,176.8,South Region
+840,garwin@gmail.com,Garwin,Tarquinio,Male,1/4/54,Fayetteville,North Carolina,12/27/16,66,426,South Region
+841,cary@gmail.com,Cary,Greenhead,Male,,Washington,District of Columbia,11/14/17,,80.4,South Region
+842,kenneth@gmail.com,Kenneth,Westmancoat,Male,8/28/61,Fort Lauderdale,Florida,4/30/17,58,5,South Region
+843,ashla@gmail.com,Ashla,Strelitz,Female,12/19/87,North Hollywood,California,10/18/16,32,374.4,West Region
+844,fayre@gmail.com,Fayre,Erwin,Female,6/29/51,San Rafael,California,6/11/18,68,59.5,West Region
+845,jameson@gmail.com,Jameson,Flood,Male,8/24/52,Bradenton,Florida,8/23/17,67,44,South Region
+846,nerita@gmail.com,Nerita,Tenny,Female,1/18/85,Atlanta,Georgia,,35,428,South Region
+847,kissee@gmail.com,Kissee,Luebbert,Female,1/28/61,Buffalo,New York,,59,8.95,Northeast Region
+848,iain@gmail.com,Iain,Puckring,Male,1/11/56,Frederick,Maryland,9/13/17,64,200,South Region
+849,izaak@gmail.com,Izaak,Spelwood,Male,4/16/52,San Antonio,Texas,,68,280,South Region
+850,hendrick@gmail.com,Hendrick,McCreary,Male,11/12/57,Fort Wayne,Indiana,4/27/17,62,25,Midwest Region
+851,meredithe@gmail.com,Meredithe,Rosekilly,Female,3/17/86,Washington,District of Columbia,,34,#N/A,South Region
+852,cort@gmail.com,Cort,Goodyear,Male,4/8/56,Richmond,Virginia,8/11/17,64,20,South Region
+853,franzen@gmail.com,Franzen,Cocci,Male,3/14/84,Milwaukee,Wisconsin,3/30/17,36,63,Midwest Region
+854,angie@gmail.com,Angie,Riatt,Female,1/22/83,Johnson City,Tennessee,2/13/17,37,132.4,South Region
+855,coop@gmail.com,Coop,Balding,Male,2/8/85,Spartanburg,South Carolina,,35,150,South Region
+856,gretal@gmail.com,Gretal,Gilham,Female,6/1/54,Albuquerque,New Mexico,,65,90,West Region
+857,filippa@gmail.com,Filippa,Gingle,Female,8/27/64,Atlanta,Georgia,6/30/18,55,69.6,South Region
+858,tabb@gmail.com,Tabb,Abercromby,Male,4/21/81,Las Vegas,Nevada,,39,#N/A,West Region
+859,dennet@gmail.com,Dennet,Dobinson,Male,1/22/88,Lancaster,Pennsylvania,2/5/17,32,435.8,Northeast Region
+860,joachim@gmail.com,Joachim,Meiklem,Male,10/27/67,Las Vegas,Nevada,10/13/17,52,81.6,West Region
+861,kat@gmail.com,Kat,End,Female,3/13/71,Miami,Florida,1/16/17,49,77.4,South Region
+862,mack@gmail.com,Mack,Melsome,Male,1/19/58,Dallas,Texas,10/7/16,62,84.5,South Region
+863,farlee@gmail.com,Farlee,Shephard,Male,3/12/57,Chula Vista,California,,63,80,West Region
+864,gerrie@gmail.com,Gerrie,Reeveley,Female,7/28/75,Saginaw,Michigan,12/31/16,44,20,Midwest Region
+865,phedra@gmail.com,Phedra,Marcinkowski,Female,12/1/84,Bronx,New York,4/15/18,35,102,Northeast Region
+866,quent@gmail.com,Quent,Shearmur,Male,4/28/75,Burbank,California,,45,50,West Region
+867,ashlie@gmail.com,Ashlie,Shurrock,Female,2/8/75,Fort Lauderdale,Florida,7/28/18,45,147.15,South Region
+868,laurence@gmail.com,Laurence,Aspall,Male,2/17/68,Philadelphia,Pennsylvania,,52,#N/A,Northeast Region
+869,loren@gmail.com,Loren,Lapping,Female,10/31/86,Salt Lake City,Utah,,33,544,West Region
+870,stan@gmail.com,Stan,Moral,Male,7/25/66,Boston,Massachusetts,8/8/17,53,480.9,Northeast Region
+871,dougie@gmail.com,Dougie,Ernke,Male,10/30/88,Wichita,Kansas,2/13/18,31,#N/A,Midwest Region
+872,elliot@gmail.com,Elliot,Dabinett,Male,9/30/63,Littleton,Colorado,4/23/18,56,435,West Region
+873,urban@gmail.com,Urban,Hadgkiss,Male,8/20/55,Wilkes Barre,Pennsylvania,11/7/17,64,64,Northeast Region
+874,bibi@gmail.com,Bibi,Kruschev,Female,2/4/56,Oklahoma City,Oklahoma,9/12/17,64,61.5,South Region
+875,byron@gmail.com,Byron,Imlock,Male,8/12/62,Mobile,Alabama,9/23/17,57,126.8,South Region
+876,ernie@gmail.com,Ernie,Coomer,Male,3/18/66,Pompano Beach,Florida,,54,55,South Region
+877,luci@gmail.com,Luci,Dossettor,Female,1/6/51,Dallas,Texas,9/22/16,69,20,South Region
+878,hazel@gmail.com,Hazel,Helsdon,Female,7/27/73,Montgomery,Alabama,,46,465.6,South Region
+879,gard@gmail.com,Gard,Nuemann,Male,3/4/57,Odessa,Texas,,63,91.2,South Region
+880,silvester@gmail.com,Silvester,Tutchell,Male,7/5/88,West Palm Beach,Florida,3/12/17,31,87.6,South Region
+881,milena@gmail.com,Milena,Pimblotte,Female,,Santa Barbara,California,9/29/16,,156.4,West Region
+882,margery@gmail.com,Margery,Champness,Female,1/13/68,Vero Beach,Florida,6/30/17,52,230,South Region
+883,odey@gmail.com,Odey,Crowhurst,Male,,Lexington,Kentucky,12/25/17,,43.5,South Region
+884,darleen@gmail.com,Darleen,Butfield,Female,9/6/84,Erie,Pennsylvania,,35,66.4,Northeast Region
+885,roseanne@gmail.com,Roseanne,Brandi,Female,6/21/53,Midland,Michigan,11/30/16,66,316,Midwest Region
+886,nana@gmail.com,Nana,Barge,Female,3/29/72,Hialeah,Florida,,48,152.6,South Region
+887,georgianne@gmail.com,Georgianne,Garoghan,Female,6/16/68,South Bend,Indiana,,51,#N/A,Midwest Region
+888,bernhard@gmail.com,Bernhard,Sinyard,Male,,Dallas,Texas,6/3/17,,66.2,South Region
+889,danie@gmail.com,Danie,Haskell,Male,6/18/89,Fort Lauderdale,Florida,1/19/17,30,#N/A,South Region
+890,elinor@gmail.com,Elinor,Chapelhow,Female,7/9/75,Raleigh,North Carolina,4/16/17,44,5,South Region
+891,cooper@gmail.com,Cooper,Calvard,Male,12/27/83,Davenport,Iowa,10/16/16,36,628.85,Midwest Region
+892,halie@gmail.com,Halie,Jimson,Female,11/9/73,Migrate,Kentucky,,46,95,South Region
+893,bryant@gmail.com,Bryant,Shipp,Male,9/10/55,Houston,Texas,4/25/17,64,78.8,South Region
+894,kanya@gmail.com,Kanya,Lindeboom,Female,3/10/72,Portsmouth,New Hampshire,7/11/17,48,111,Northeast Region
+895,dennis@gmail.com,Dennis,Eagling,Male,8/15/70,Aurora,Colorado,,49,120,West Region
+896,simona@gmail.com,Simona,McGarvey,Female,1/24/52,Youngstown,Ohio,,68,544.7,Midwest Region
+897,agnes@gmail.com,Agnes,Marielle,Female,2/14/58,Los Angeles,California,8/21/16,62,57.4,West Region
+898,terrie@gmail.com,Terrie,Yearby,Female,,Wichita,Kansas,10/16/17,,400,Midwest Region
+899,davon@gmail.com,Davon,Swiffin,Male,5/19/68,Provo,Utah,11/7/16,51,453.65,West Region
+900,sonya@gmail.com,Sonya,Scarfe,Female,2/23/77,Spring,Texas,8/9/18,43,129.7,South Region
+901,brynne@gmail.com,Brynne,Sweeten,Female,4/8/68,Newark,New Jersey,,52,84.2,Northeast Region
+902,dotty@gmail.com,Dotty,Linsley,Female,3/2/74,Honolulu,Hawaii,1/5/17,46,179.5,West Region
+903,jeannie@gmail.com,Jeannie,Symson,Female,,Atlanta,Georgia,9/3/16,,336,South Region
+904,stoddard@gmail.com,Stoddard,McKernan,Female,4/27/73,Jacksonville,Florida,6/26/18,47,152.4,South Region
+905,orbadiah@gmail.com,Orbadiah,Mathouse,Male,5/31/82,Dayton,Ohio,5/6/18,37,112.2,Midwest Region
+906,thoma@gmail.com,Thoma,Fowlds,Male,5/16/63,Virginia Beach,Virginia,7/7/17,57,71.8,South Region
+907,stephani@gmail.com,Stephani,Lavalde,Female,10/28/56,Anchorage,Alaska,,63,1000.3,West Region
+908,sheffield@gmail.com,Sheffield,Ahlin,Male,2/14/75,Seattle,Washington,,45,80,West Region
+909,derwin@gmail.com,Derwin,Batten,Male,7/9/82,Pensacola,Florida,1/14/17,37,122.5,South Region
+910,reinhold@gmail.com,Reinhold,De Lascy,Male,2/7/83,Lubbock,Texas,6/28/18,37,100,South Region
+911,colline@gmail.com,Colline,Lester,Female,1/17/66,Jacksonville,Florida,,54,127,South Region
+912,casandra@gmail.com,Casandra,Gaye,Female,8/11/84,Oklahoma City,Oklahoma,10/6/17,35,50,South Region
+913,dud@gmail.com,Dud,Skyme,Male,5/18/89,Houston,Texas,3/16/17,30,67.2,South Region
+914,nicolle@gmail.com,Nicolle,Unthank,Female,5/24/62,Pittsburgh,Pennsylvania,5/17/17,57,96.9,Northeast Region
+915,luisa@gmail.com,Luisa,Blakely,Female,9/30/88,Nashville,Tennessee,,31,645,South Region
+916,reggi@gmail.com,Reggi,McGrayle,Female,12/27/80,Harrisburg,Pennsylvania,,39,360,Northeast Region
+917,evangelia@gmail.com,Evangelia,Wombwell,Female,9/18/69,Tampa,Florida,8/24/17,50,#N/A,South Region
+918,kendall@gmail.com,Kendall,Maleham,Male,1/15/65,Gainesville,Florida,7/16/17,55,222.85,South Region
+919,gaven@gmail.com,Gaven,Shillington,Male,4/5/81,San Jose,California,7/1/18,39,83.9,West Region
+920,broderic@gmail.com,Broderic,Grundon,Male,2/1/82,Erie,Pennsylvania,12/12/17,38,100,Northeast Region
+921,oliver@gmail.com,Oliver,De Angelis,Male,9/26/55,Phoenix,Arizona,,64,120,West Region
+922,daisy@gmail.com,Daisy,Leavry,Female,1/30/61,Roanoke,Virginia,10/28/17,59,348,South Region
+923,nike@gmail.com,Nike,Keasey,Female,12/30/71,Spartanburg,South Carolina,,48,120.8,South Region
+924,doria@gmail.com,Doria,Lempel,Female,10/7/88,Texarkana,Texas,9/10/17,31,140.9,South Region
+925,stillman@gmail.com,Stillman,Climo,Male,7/12/55,Fullerton,California,6/26/17,64,#N/A,West Region
+926,persis@gmail.com,Persis,Urry,Female,5/16/74,Daytona Beach,Florida,6/5/18,46,#N/A,South Region
+927,laetitia@gmail.com,Laetitia,Lovat,Female,6/27/72,Washington,District of Columbia,,47,#N/A,South Region
+928,boycey@gmail.com,Boycey,Trudgion,Male,8/12/72,Fort Lauderdale,Florida,,47,49,South Region
+929,ebonee@gmail.com,Ebonee,Diggles,Female,6/28/75,London,Kentucky,9/4/16,44,80,South Region
+930,fee@gmail.com,Fee,Krebs,Male,5/3/77,College Station,Texas,6/5/18,43,540,South Region
+931,paulo@gmail.com,Paulo,Hexam,Male,12/27/55,San Luis Obispo,California,,64,150,West Region
+932,ilene@gmail.com,Ilene,Flicker,Female,6/28/59,Louisville,Kentucky,7/26/18,60,95.8,South Region
+933,freddy@gmail.com,Freddy,Clawley,Male,,Omaha,Nebraska,11/7/17,,84.35,Midwest Region
+934,bernadette@gmail.com,Bernadette,Wales,Female,1/4/51,Duluth,Georgia,7/16/17,69,#N/A,South Region
+935,ava@gmail.com,Ava,Leopold,Female,6/19/89,Boulder,Colorado,4/26/17,30,70,West Region
+936,maitilde@gmail.com,Maitilde,Scargill,Female,9/30/66,Washington,District of Columbia,,53,20,South Region
+937,bobby@gmail.com,Bobby,Bettaney,Female,8/28/65,Tampa,Florida,,54,86.8,South Region
+938,lance@gmail.com,Lance,Brussels,Male,,Chattanooga,Tennessee,,,50,South Region
+939,muriel@gmail.com,Muriel,Linster,Female,8/15/86,Dayton,Ohio,,33,55.5,Midwest Region
+940,cchaddie@gmail.com,Cchaddie,Broadist,Male,11/14/86,San Antonio,Texas,5/5/18,33,80,South Region
+941,daveta@gmail.com,Daveta,Ronaldson,Female,12/21/66,Spokane,Washington,9/9/17,53,166.5,West Region
+942,riccardo@gmail.com,Riccardo,Tremellan,Male,2/1/86,Anchorage,Alaska,,34,37,West Region
+943,tamarah@gmail.com,Tamarah,Pattrick,Female,7/3/89,Pensacola,Florida,,30,386,South Region
+944,brear@gmail.com,Brear,Olsson,Female,10/18/78,Cleveland,Ohio,3/29/18,41,400,Midwest Region
+945,selle@gmail.com,Selle,Milson,Female,2/24/64,Littleton,Colorado,8/12/18,56,430.4,West Region
+946,feodor@gmail.com,Feodor,Mallender,Male,5/25/77,Wichita,Kansas,,42,5,Midwest Region
+947,had@gmail.com,Had,Kehoe,Male,4/1/71,Portland,Oregon,2/27/18,49,88.65,West Region
+948,linc@gmail.com,Linc,Hallad,Male,,South Bend,Indiana,,,#N/A,Midwest Region
+949,emanuel@gmail.com,Emanuel,Soltan,Male,12/8/55,Charleston,West Virginia,12/26/17,64,14.4,South Region
+950,evan@gmail.com,Evan,Henriques,Male,8/20/65,Biloxi,Mississippi,,54,80,South Region
+951,jacklyn@gmail.com,Jacklyn,Comar,Female,11/17/70,Houston,Texas,10/9/16,49,#N/A,South Region
+952,gearard@gmail.com,Gearard,Rizzolo,Male,8/14/62,Roanoke,Virginia,1/12/17,57,477,South Region
+953,burlie@gmail.com,Burlie,Donati,Male,10/17/78,Charlotte,North Carolina,7/25/18,41,480,South Region
+954,quinn@gmail.com,Quinn,Clixby,Male,6/29/84,South Bend,Indiana,,35,#N/A,Midwest Region
+955,ian@gmail.com,Ian,Ketton,Male,5/10/74,Richmond,Virginia,,46,421.65,South Region
+956,adolph@gmail.com,Adolph,Hewes,Male,10/21/58,Las Vegas,Nevada,,61,20,West Region
+957,blinni@gmail.com,Blinni,Anlay,Female,2/6/90,Winston Salem,North Carolina,,30,16.8,South Region
+958,dani@gmail.com,Dani,Mintoft,Female,4/16/61,Erie,Pennsylvania,4/29/18,59,62.4,Northeast Region
+959,tami@gmail.com,Tami,Pietruszka,Female,,Littleton,Colorado,11/21/16,,#N/A,West Region
+960,ely@gmail.com,Ely,McCrossan,Male,4/4/54,Alexandria,Louisiana,11/24/16,66,15.8,South Region
+961,laurence@gmail.com,Laurence,Bourner,Male,11/16/79,Houston,Texas,4/6/18,40,#N/A,South Region
+962,giordano@gmail.com,Giordano,Lutz,Male,7/8/80,Inglewood,California,3/1/17,39,59.5,West Region
+963,thayne@gmail.com,Thayne,Tatterton,Male,8/14/72,Toledo,Ohio,,47,#N/A,Midwest Region
+964,karlie@gmail.com,Karlie,Aubury,Female,10/22/65,Pittsburgh,Pennsylvania,,54,392.2,Northeast Region
+965,donalt@gmail.com,Donalt,Sorrill,Male,9/5/84,Norwalk,Connecticut,6/13/18,35,929.3,Northeast Region
+966,murdoch@gmail.com,Murdoch,Byrch,Male,8/28/53,Syracuse,New York,12/5/16,66,18,Northeast Region
+967,tillie@gmail.com,Tillie,Shory,Female,8/13/79,Huntington Beach,California,,40,86.6,West Region
+968,rogers@gmail.com,Rogers,Cock,Male,,Longview,Texas,,,74.9,South Region
+969,cooper@gmail.com,Cooper,Paquet,Male,2/10/55,Norwalk,Connecticut,4/22/17,65,148.3,Northeast Region
+970,hewitt@gmail.com,Hewitt,Giovanetti,Male,8/2/56,Reston,Virginia,,63,378.85,South Region
+971,leda@gmail.com,Leda,Treby,Female,3/13/85,Tampa,Florida,7/15/18,35,146.6,South Region
+972,franklyn@gmail.com,Franklyn,Silcock,Male,7/19/90,Las Vegas,Nevada,6/13/18,29,100,West Region
+973,tommie@gmail.com,Tommie,Keeble,Male,2/24/71,Temple,Texas,8/16/16,49,704.4,South Region
+974,humfrid@gmail.com,Humfrid,Satcher,Male,6/25/67,Toledo,Ohio,,52,#N/A,Midwest Region
+975,sidnee@gmail.com,Sidnee,Walsh,Male,9/14/73,West Palm Beach,Florida,8/6/17,46,158.65,South Region
+976,henrie@gmail.com,Henrie,Flaverty,Female,9/19/60,Monticello,Minnesota,6/16/18,59,734.4,Midwest Region
+977,sibylla@gmail.com,Sibylla,Howson,Female,8/13/69,Port Charlotte,Florida,,50,410,South Region
+978,mechelle@gmail.com,Mechelle,Coorington,Female,9/2/51,Santa Fe,New Mexico,6/13/18,68,143,West Region
+979,bord@gmail.com,Bord,Dobbson,Male,9/14/79,Carol Stream,Illinois,11/16/17,40,161.2,Midwest Region
+980,jesus@gmail.com,Jesus,Antosch,Male,11/3/85,San Rafael,California,10/31/17,34,160,West Region
+981,grenville@gmail.com,Grenville,Copas,Male,12/18/87,Grand Junction,Colorado,,32,50,West Region
+982,maria@gmail.com,Maria,Grass,Female,10/18/50,Lexington,Kentucky,2/27/18,69,#N/A,South Region
+983,benoit@gmail.com,Benoit,Netting,Male,1/23/56,Kansas City,Kansas,9/7/16,64,150.8,Midwest Region
+984,marshal@gmail.com,Marshal,Rampling,Male,10/26/67,Naples,Florida,11/24/16,52,24.4,South Region
+985,holt@gmail.com,Holt,Hentze,Male,11/22/58,Bozeman,Montana,3/28/18,61,93.7,West Region
+986,mikey@gmail.com,Mikey,Chessill,Male,7/25/80,Dallas,Texas,11/26/17,39,#N/A,South Region
+987,crista@gmail.com,Crista,Jeacock,Female,5/5/52,Shawnee Mission,Kansas,4/22/18,68,450,Midwest Region
+988,phineas@gmail.com,Phineas,Tue,Male,1/11/78,Birmingham,Alabama,4/2/17,42,#N/A,South Region
+989,corney@gmail.com,Corney,Peskett,Male,3/5/83,Indianapolis,Indiana,,37,70,Midwest Region
+990,flint@gmail.com,Flint,Sharphouse,Male,,Spokane,Washington,12/20/17,,17,West Region
+991,zebulon@gmail.com,Zebulon,Braysher,Male,2/24/63,Mount Vernon,New York,,57,620,Northeast Region
+992,briana@gmail.com,Briana,Colloff,Female,7/24/51,Fort Wayne,Indiana,,68,424.1,Midwest Region
+993,kaylee@gmail.com,Kaylee,Lydden,Female,8/15/77,Charleston,West Virginia,,42,17,South Region
+994,oralle@gmail.com,Oralle,Potbury,Female,6/8/74,Sunnyvale,California,,45,404.85,West Region
+995,jerrie@gmail.com,Jerrie,Scramage,Female,6/27/56,Atlanta,Georgia,5/27/17,63,124.6,South Region
+996,kathrine@gmail.com,Kathrine,Milbank,Female,4/15/89,Phoenix,Arizona,10/18/17,31,64.2,West Region
+997,jonas@gmail.com,Jonas,Goly,Male,1/21/73,Wilmington,North Carolina,,47,111.6,South Region
+998,leigh@gmail.com,Leigh,Mackrill,Male,3/26/57,Birmingham,Alabama,7/29/18,63,79.2,South Region
+999,ynes@gmail.com,Ynes,Twittey,Female,10/8/74,Petaluma,California,9/15/16,45,108.7,West Region
+1000,kalinda@gmail.com,Kalinda,Bower,Female,12/26/74,Wichita,Kansas,12/18/16,45,88.5,Midwest Region
